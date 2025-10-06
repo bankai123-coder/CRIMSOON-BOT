@@ -1,1 +1,101 @@
-/*\n✨ تم التطوير بواسطة: Hilman\n💫 اسم الميزة: التسجيل\n🤖 النوع: إضافة ESM\n🔗 المصدر: https://whatsapp.com/channel/0029Vb6gsqN8fewx89iCtV19\n*/\n\nimport { createHash } from \'crypto\'\nimport moment from \'moment-timezone\'\n\n// Regex to validate name (including Arabic characters) and age\nlet Reg = /^([\\p{L}\\s]+),(\\d{1,3})$/u\n\nlet handler = async function (m, { text, usedPrefix, command, conn }) {\n  let d = new Date(new Date() + 3600000)\n  let locale = \'ar-SA\' // Using Saudi Arabia locale for Arabic\n  let week = d.toLocaleDateString(locale, { weekday: \'long\' })\n  let date = d.toLocaleDateString(locale, { day: \'numeric\', month: \'long\', \'year\': \'numeric\' })\n  let time = d.toLocaleTimeString(locale, { hour: \'numeric\', minute: \'numeric\', second: \'numeric\', hour12: true })\n  \n  let pp\n  try {\n    pp = await conn.profilePictureUrl(m.sender, \'image\')\n  } catch {\n    pp = \'https://telegra.ph/file/24fa902ead26340f3df2c.png\' // Default avatar\n  }\n\n  let user = global.db.data.users[m.sender]\n  let sn = createHash(\'md5\').update(m.sender).digest(\'hex\')\n\n  if (user.registered) {\n    let oldname = user.name\n    let oldage = user.age\n    let oldreg = user.regTime\n    \n    let caption = `\n❗ *أنت مسجل بالفعل*\n\n*الاسم:* ${oldname}\n*العمر:* ${oldage} سنة\n\nإذا كنت ترغب في إعادة التسجيل، استخدم الأمر التالي:\n*${usedPrefix}unreg ${sn}*\n`\n    return conn.reply(m.chat, caption, m)\n  }\n\n  if (!Reg.test(text)) {\n    return m.reply(`*تنسيق غير صحيح*\\n\\nالاستخدام الصحيح:\\n*${usedPrefix + command}* اسمك,عمرك\\n\\n*مثال:*\\n*${usedPrefix + command}* أحمد,25`)\n  }\n\n  let [_, name, ageStr] = text.match(Reg)\n  let age = parseInt(ageStr)\n\n  if (!name || !age) return m.reply(\'*الاسم أو العمر غير صالح!*\')\n  if (name.length > 30) return m.reply(\'الاسم طويل جدًا، بحد أقصى 30 حرفًا.\')\n  if (age < 10 || age > 80) return m.reply(\'يجب أن يكون العمر بين 10 - 80 سنة.\')\n\n  user.name = name.trim()\n  user.age = age\n  user.regTime = +new Date()\n  user.registered = true\n\n  let caption = `\n┌─「 *✅ تم التسجيل بنجاح* 」\n│ \n│- *الاسم:* ${name}\n│- *العمر:* ${age} سنة\n│- *التاريخ:* ${date}\n│- *الوقت:* ${time}\n│- *الرقم التسلسلي:* \n│  \`${sn}\`\n│ \n└─「 *CRIMSON - BOT* 」\n\nمرحبًا بك! لقد أصبحت الآن جزءًا من مجتمعنا.\nاستخدم الأمر *.القائمة* لعرض جميع الأوامر المتاحة.\n`.trim()\n\n  await conn.sendMessage(m.chat, {\n    image: { url: pp },\n    caption: caption,\n    contextInfo: {\n      externalAdReply: {\n        title: \"تم التسجيل بنجاح\",\n        body: user.name,\n        thumbnailUrl: pp,\n        sourceUrl: \"https://whatsapp.com/channel/0029Vb6gsqN8fewx89iCtV19\",\n        mediaType: 1,\n        renderLargerThumbnail: true\n      }\n    }\n  }, { quoted: m })\n}\n\nhandler.help = [\'تسجيل <اسم>,<عمر>\']\nhandler.tags = [\'main\']\nhandler.command = /^(daftar|register|reg|تسجيل|verify|تحقق)$/i\n\nexport default handler\n
+/*
+✨ YuriPuki
+💫 اسم الميزة: التسجيل
+🤖 النوع : إضافة ESM
+🔗 المصدر : https://whatsapp.com/channel/0029VbATaq46BIErAvF4mv2c
+*/
+
+import { createHash } from 'crypto'
+import moment from 'moment-timezone'
+
+let Reg = /^([\w\s\u0600-\u06FF]+),(\d{1,3})$/i
+
+let handler = async function (m, { text, usedPrefix, command, conn }) {
+  let namae = conn.getName(m.sender)
+  let d = new Date(new Date() + 3600000)
+  let locale = 'ar'
+  let week = d.toLocaleDateString(locale, { weekday: 'long' })
+  let date = d.toLocaleDateString(locale, { day: 'numeric', month: 'long', year: 'numeric' })
+  let wibh = moment.tz('Asia/Riyadh').format('HH')
+  let wibm = moment.tz('Asia/Riyadh').format('mm')
+  let wibs = moment.tz('Asia/Riyadh').format('ss')
+  let wktuwib = `${wibh} س ${wibm} د ${wibs} ث`
+  let pp
+  try {
+    pp = await conn.profilePictureUrl(m.sender, 'image')
+  } catch {
+    pp = './src/avatar_contact.png'
+  }
+
+  let user = global.db.data.users[m.sender]
+  let sn = createHash('md5').update(m.sender).digest('hex')
+
+  if (user.registered) throw `❗ أنت مسجل بالفعل!\n\nتريد إعادة التسجيل؟\nأرسل:\n${usedPrefix}unreg ${sn}`
+
+  if (!Reg.test(text)) {
+    return m.reply(`⚡ اكتب بالشكل الصحيح:\n\n${usedPrefix + command} اسمك,عمرك\n\n📌 مثال:\n${usedPrefix + command} أحمد,18`)
+  }
+
+  let [_, name, ageStr] = text.match(Reg)
+  let age = parseInt(ageStr)
+
+  if (!name || !age) return m.reply('❌ *الاسم أو العمر غير صحيح!*')
+  if (name.length > 100) return m.reply('📛 الاسم يجب أن لا يتجاوز 100 حرف.')
+  if (age < 5 || age > 100) return m.reply('🎂 العمر يجب أن يكون بين 5 - 100 سنة.')
+
+  user.name = name.trim()
+  user.age = age
+  user.regTime = +new Date()
+  user.registered = true
+
+  let caption = `
+╭─⊷ *🎉 التسجيل مكتمل* 
+│ ✅ *الحالة:* مسجل بنجاح
+│ 👤 *الاسم:* ${name}
+│ 🎂 *العمر:* ${age} سنة
+│ 🔑 *الرقم التسلسلي:* ${sn}
+│ 
+│ 📅 *التاريخ:* ${week}, ${date}
+│ ⏰ *الوقت:* ${wktuwib}
+╰───
+
+🎊 أهلاً وسهلاً بك في نظام البوت!
+تم حفظ بياناتك في قاعدة البيانات بنجاح.
+نتمنى لك يوماً سعيداً~! 🌟
+`.trim()
+
+  await conn.sendMessage(m.chat, {
+    image: { url: pp, path: pp },
+    caption,
+    footer: 'اختر الزر للمتابعة:',
+    buttons: [
+      {
+        buttonId: '.allmenu',
+        buttonText: { displayText: '📂 القائمة الرئيسية' },
+        type: 1
+      },
+      {
+        buttonId: '.menu',
+        buttonText: { displayText: '🏠 القائمة' },
+        type: 1
+      }
+    ],
+    headerType: 4,
+    contextInfo: {
+      externalAdReply: {
+        title: '✅ التسجيل المكتمل',
+        body: `مرحباً ${name}!`,
+        thumbnailUrl: pp,
+        sourceUrl: 'https://whatsapp.com/channel/0029VbATaq46BIErAvF4mv2c',
+        mediaType: 1,
+        renderLargerThumbnail: true
+      }
+    }
+  }, { quoted: m })
+}
+
+handler.help = ['daftar', 'تسجيل', 'register']
+handler.tags = ['user']
+handler.command = /^(daftar|verify|reg(ister)?|تسجيل|تحقق|سجل)$/i
+
+export default handler
