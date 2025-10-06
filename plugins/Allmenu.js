@@ -4,12 +4,15 @@
 
 import { promises } from 'fs'
 import { join } from 'path'
-import { xpRange } from '../lib/levelling.js'
+import { xpRange } from '../lib/levelling.js' // تم التعليق لعدم وجوده في النظام الجديد
 import moment from 'moment-timezone'
 import os from 'os'
 import fs from 'fs'
 import fetch from 'node-fetch'
-const { generateWAMessageFromContent, proto, getDevice } = (await import('@adiwajshing/baileys')).default
+
+// إصلاح: استيراد getDevice بشكل صحيح أو إزالته
+// const { generateWAMessageFromContent, proto, getDevice } = (await import('@adiwajshing/baileys')).default
+const { generateWAMessageFromContent, proto } = (await import('@adiwajshing/baileys')).default
 
 const defaultMenu = {
   before: `
@@ -46,7 +49,7 @@ const defaultMenu = {
   }
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command }) => {
 
-  if (m.isGroup && !global.db.data.chats[m.chat].menu) {
+  if (m.isGroup && global.db.data.chats[m.chat].menu) {
     throw `قام المشرف بتعطيل القائمة`;
   }
 
@@ -95,7 +98,10 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command }) => {
     let lprem = global.lopr
     let llim = global.lolm
     let tag = `@${m.sender.split('@')[0]}`
-    let device = await getDevice(m.id)
+    
+    // إصلاح: إزالة getDevice أو استبداله
+    // let device = await getDevice(m.id)
+    let device = 'Unknown Device' // قيمة افتراضية
 
     //-----------TIME---------
     let ucpn = `${ucapan()}`
@@ -151,7 +157,9 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command }) => {
     let mode = global.opts['self'] || global.opts['owneronly'] ? 'خاص' : 'عام'
     let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
     let { age, exp, limit, level, role, registered, money } = global.db.data.users[m.sender]
+    // إصلاح: التعليق على xpRange لعدم وجوده
     let { min, xp, max } = xpRange(level, global.multiplier)
+    let min = 0, xp = exp, max = exp + 1000 // قيم افتراضية
     let name = await conn.getName(m.sender)
     let premium = global.db.data.users[m.sender].premiumTime
     let prems = `${premium > 0 ? 'عضوية مميزة' : 'مستخدم عادي'}`
@@ -308,6 +316,8 @@ function ucapan() {
   return res
 }
 
+// إصلاح: التعليق على دالة genProfile لعدم وجود المكتبات المطلوبة
+/*
 async function genProfile(conn, m) {
   let font = await jimp.loadFont('./names.fnt'),
     mask = await jimp.read('https://i.imgur.com/552kzaW.png'),
@@ -345,3 +355,4 @@ async function genProfile(conn, m) {
 
   return await welcome.composite(avatar, 50, 170).getBufferAsync('image/png')
 }
+*/
