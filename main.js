@@ -1,4 +1,4 @@
-/* Crimson-Bot */
+/* Crimson Bot - Merged with Rizal Dev Base */
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '1';
 
 import './config.js'
@@ -100,10 +100,13 @@ global.loadDatabase = async function loadDatabase() {
 }
 loadDatabase()
 
-// Store Setup
-const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
+// Store Setup - Optional
+const store = makeInMemoryStore ? makeInMemoryStore({ 
+    logger: pino().child({ level: 'silent', stream: 'store' }) 
+}) : null
 
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout })
+rl.setMaxListeners(20)
 
 const { version, isLatest } = await fetchLatestBaileysVersion()
 const { state, saveCreds } = await useMultiFileAuthState('./sessions')
@@ -121,8 +124,11 @@ const connectionOptions = {
         })),
     },
     getMessage: async key => {
-        const messageData = await store.loadMessage(key.remoteJid, key.id)
-        return messageData?.message || undefined
+        if (store) {
+            const messageData = await store.loadMessage(key.remoteJid, key.id)
+            return messageData?.message || undefined
+        }
+        return { conversation: 'Hi' }
     },
     generateHighQualityLinkPreview: true,
     patchMessageBeforeSending: (message) => {
@@ -158,6 +164,8 @@ const connectionOptions = {
 global.conn = makeWASocket(connectionOptions)
 conn.isInit = false
 
+if (store) store.bind(conn.ev)
+
 // Auto Reset Limit
 async function resetLimit() {
     try {
@@ -181,6 +189,7 @@ if (!opts['test']) {
     (await import('./server.js')).default(PORT)
     setInterval(async () => {
         if (global.db.data) await global.db.write().catch(console.error)
+        if (store) store.writeToFile('./store.json')
         clearTmp()
     }, 60 * 1000)
 }
@@ -248,13 +257,19 @@ async function connectionUpdate(update) {
 
     if (connection == 'close') {
         console.log(chalk.red('⏱️  Connection closed, reconnecting...'))
+        const statusCode = lastDisconnect?.error?.output?.statusCode
+        if (statusCode !== DisconnectReason.loggedOut) {
+            await global.reloadHandler(true).catch(console.error)
+        } else {
+            console.log(chalk.red('❌ Logged out. Please delete sessions folder and restart.'))
+        }
     }
 
     if (connection === 'open') {
         console.log(chalk.green.bold('\n✓ Crimson Bot Successfully Connected!'))
         console.log(chalk.cyan('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'))
         console.log(chalk.white('  Bot Name:'), chalk.green(global.botName || 'Crimson Bot'))
-        console.log(chalk.white('  Bot Number:'), chalk.green(global.botNumber || conn.user.id.split(':')[0]))
+        console.log(chalk.white('  Bot Number:'), chalk.green(conn.user?.id?.split(':')[0] || 'Unknown'))
         console.log(chalk.white('  Owner:'), chalk.green(global.ownerNumber || 'Not Set'))
         console.log(chalk.white('  Prefix:'), chalk.green(global.prefix))
         console.log(chalk.white('  Commands:'), chalk.green(Object.keys(global.plugins).length))
@@ -263,16 +278,13 @@ async function connectionUpdate(update) {
 
     global.timestamp.connect = new Date
 
-    if (lastDisconnect && lastDisconnect.error && lastDisconnect.error.output && lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut && conn.ws.readyState !== CONNECTING) {
-        console.log(await global.reloadHandler(true))
-    }
-
     if (global.db.data == null) {
         await global.loadDatabase()
     }
 }
 
 process.on('uncaughtException', console.error)
+process.on('unhandledRejection', console.error)
 
 let isInit = true
 let handler = await import('./handler.js')
@@ -288,6 +300,7 @@ global.reloadHandler = async function (restatConn) {
         try { global.conn.ws.close() } catch { }
         conn.ev.removeAllListeners()
         global.conn = makeWASocket(connectionOptions, { chats: oldChats })
+        if (store) store.bind(conn.ev)
         isInit = true
     }
     if (!isInit) {
@@ -339,9 +352,11 @@ Good luck! 🌟`
     conn.credsUpdate = saveCreds.bind(global.conn)
 
     conn.ev.on('call', async (call) => {
-        if (global.antiCall && call.status === 'ringing') {
-            await conn.rejectCall(call.id)
-            console.log(chalk.yellow(`📞 Call rejected from: ${call.from}`))
+        if (global.antiCall && call[0]?.status === 'offer') {
+            for (let id of call) {
+                await conn.rejectCall(id.id, id.from)
+                console.log(chalk.yellow(`📞 Call rejected from: ${id.from}`))
+            }
         }
     })
 
