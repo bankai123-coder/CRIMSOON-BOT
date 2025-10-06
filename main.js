@@ -1,4 +1,4 @@
-/* Crimson Bot - Merged with Rizal Dev Base */
+/* Crimson-Bot */
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '1';
 
 import './config.js'
@@ -35,6 +35,7 @@ import readline from 'readline'
 import { format } from 'util'
 import pino from 'pino'
 import ws from 'ws'
+import qrcode from 'qrcode-terminal'
 
 const {
     useMultiFileAuthState,
@@ -99,7 +100,9 @@ global.loadDatabase = async function loadDatabase() {
 }
 loadDatabase()
 
-// QR Code Only - No Pairing Code
+// Store Setup
+const store = makeInMemoryStore({ logger: pino().child({ level: 'silent', stream: 'store' }) })
+
 const rl = readline.createInterface({ input: process.stdin, output: process.stdout })
 
 const { version, isLatest } = await fetchLatestBaileysVersion()
@@ -108,7 +111,7 @@ const { state, saveCreds } = await useMultiFileAuthState('./sessions')
 const connectionOptions = {
     version,
     logger: pino({ level: 'silent' }),
-    printQRInTerminal: true, // QR Code في Terminal
+    printQRInTerminal: false,
     browser: ['Crimson Bot', 'Chrome', '3.0.0'],
     auth: {
         creds: state.creds,
@@ -148,7 +151,6 @@ const connectionOptions = {
     keepAliveIntervalMs: 10000,
     emitOwnEvents: true,
     fireInitQueries: true,
-    generateHighQualityLinkPreview: true,
     syncFullHistory: true,
     markOnlineOnConnect: global.markOnlineOnConnect
 }
@@ -168,9 +170,9 @@ async function resetLimit() {
             }
         })
 
-        console.log(chalk.green(`✓ Auto Reset Limit Success`))
+        console.log(chalk.green('✓ Auto Reset Limit Success'))
     } finally {
-        setInterval(() => resetLimit(), 1 * 86400000) // 24 hours
+        setInterval(() => resetLimit(), 1 * 86400000)
     }
 }
 
@@ -194,7 +196,7 @@ function clearTmp() {
     })
 }
 
-// Clear Sessions (keep creds.json only)
+// Clear Sessions
 async function clearSessions(folder = './sessions') {
     try {
         const filenames = await readdirSync(folder)
@@ -216,13 +218,23 @@ async function clearSessions(folder = './sessions') {
         console.error(chalk.red(`Error in Clear Sessions: ${err.message}`))
         return []
     } finally {
-        setTimeout(() => clearSessions(folder), 1 * 3600000) // 1 Hour
+        setTimeout(() => clearSessions(folder), 1 * 3600000)
     }
 }
 
 // Connection Update Handler
 async function connectionUpdate(update) {
-    const { receivedPendingNotifications, connection, lastDisconnect, isOnline, isNewLogin } = update
+    const { receivedPendingNotifications, connection, lastDisconnect, isOnline, isNewLogin, qr } = update
+    
+    if (qr) {
+        console.log(chalk.yellow('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'))
+        console.log(chalk.cyan.bold('📱 Scan this QR Code with WhatsApp:'))
+        console.log(chalk.yellow('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n'))
+        qrcode.generate(qr, { small: true })
+        console.log(chalk.yellow('\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'))
+        console.log(chalk.white('Open WhatsApp > Linked Devices > Link a Device'))
+        console.log(chalk.yellow('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n'))
+    }
     
     if (isOnline == true) {
         console.log(chalk.green('🟢 Status: Online'))
@@ -241,9 +253,9 @@ async function connectionUpdate(update) {
     if (connection === 'open') {
         console.log(chalk.green.bold('\n✓ Crimson Bot Successfully Connected!'))
         console.log(chalk.cyan('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━'))
-        console.log(chalk.white('  Bot Name:'), chalk.green(global.botName))
-        console.log(chalk.white('  Bot Number:'), chalk.green(global.botNumber))
-        console.log(chalk.white('  Owner:'), chalk.green(global.ownerNumber))
+        console.log(chalk.white('  Bot Name:'), chalk.green(global.botName || 'Crimson Bot'))
+        console.log(chalk.white('  Bot Number:'), chalk.green(global.botNumber || conn.user.id.split(':')[0]))
+        console.log(chalk.white('  Owner:'), chalk.green(global.ownerNumber || 'Not Set'))
         console.log(chalk.white('  Prefix:'), chalk.green(global.prefix))
         console.log(chalk.white('  Commands:'), chalk.green(Object.keys(global.plugins).length))
         console.log(chalk.cyan('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n'))
@@ -287,7 +299,6 @@ global.reloadHandler = async function (restatConn) {
         conn.ev.off('creds.update', conn.credsUpdate)
     }
 
-    // Welcome Messages (Arabic/English)
     conn.welcome = `╔═══════════════════════════╗
 ║   👋 مرحباً بك / Welcome   ║
 ╚═══════════════════════════╝
@@ -327,7 +338,6 @@ Good luck! 🌟`
     conn.connectionUpdate = connectionUpdate.bind(global.conn)
     conn.credsUpdate = saveCreds.bind(global.conn)
 
-    // Anti-Call Feature
     conn.ev.on('call', async (call) => {
         if (global.antiCall && call.status === 'ringing') {
             await conn.rejectCall(call.id)
@@ -397,7 +407,6 @@ Object.freeze(global.reload)
 watch(pluginFolder, global.reload)
 await global.reloadHandler()
 
-// Quick Test
 async function _quickTest() {
     let test = await Promise.all([
         spawn('ffmpeg'),
