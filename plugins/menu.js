@@ -27,7 +27,7 @@ ${greeting}, *${name}!*
 
   // Send message with image & buttons
   await conn.sendMessage(m.chat, {
-    image: { url: 'https://files.catbox.moe/e8y4yy.png' },
+    image: { url: 'https://files.catbox.moe/aoieok.jpg' },
     caption,
     footer: 'ryo.yamada',
     buttons: [
@@ -41,7 +41,7 @@ ${greeting}, *${name}!*
       externalAdReply: {
         title: 'بوت ryo.yamada للواتساب',
         body: 'متعدد الوظائف',
-        thumbnailUrl: 'https://files.catbox.moe/kthhq6.jpg',
+        thumbnailUrl: 'https://files.catbox.moe/3vrpsp.jpeg',
         sourceUrl: 'https://github.com/rizaldev',
         mediaType: 1,
         renderLargerThumbnail: true
