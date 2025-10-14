@@ -1,0 +1,290 @@
+{
+  "users": {
+    "22243453718@s.whatsapp.net": {
+      "exp": 333,
+      "limit": 25,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "+222 43 45 37 18",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "banReason": "",
+      "warn": 0,
+      "level": 0,
+      "role": "Free user",
+      "autolevelup": true
+    },
+    "22234001933@s.whatsapp.net": {
+      "exp": 762,
+      "limit": 25,
+      "lastclaim": 0,
+      "registered": true,
+      "name": "lemzo",
+      "age": 25,
+      "regTime": 1759715964457,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "banReason": "",
+      "warn": 0,
+      "level": 0,
+      "role": "Free user",
+      "autolevelup": true
+    },
+    "22234503110@s.whatsapp.net": {
+      "exp": 45,
+      "limit": 25,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "الحمد الله لك الحمد ❤",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "banReason": "",
+      "warn": 0,
+      "level": 0,
+      "role": "Free user",
+      "autolevelup": true
+    },
+    "22248168070@s.whatsapp.net": {
+      "exp": 16,
+      "limit": 25,
+      "lastclaim": 0,
+      "registered": false,
+      "name": "♎️",
+      "age": -1,
+      "regTime": -1,
+      "afk": -1,
+      "afkReason": "",
+      "banned": false,
+      "banReason": "",
+      "warn": 0,
+      "level": 0,
+      "role": "Free user",
+      "autolevelup": true
+    }
+  },
+  "chats": {
+    "22243453718@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "simi": false,
+      "autogpt": false,
+      "expired": 0,
+      "autoSticker": false,
+      "premium": false,
+      "premiumTime": false,
+      "nsfw": false,
+      "menu": true,
+      "antiToxic": false
+    },
+    "22234001933@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "simi": false,
+      "autogpt": false,
+      "expired": 0,
+      "autoSticker": false,
+      "premium": false,
+      "premiumTime": false,
+      "nsfw": false,
+      "menu": true,
+      "antiToxic": false
+    },
+    "22232157828@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "simi": false,
+      "autogpt": false,
+      "expired": 0,
+      "autoSticker": false,
+      "premium": false,
+      "premiumTime": false,
+      "nsfw": false,
+      "menu": true
+    },
+    "22248168070@s.whatsapp.net": {
+      "isBanned": false,
+      "welcome": true,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "delete": true,
+      "antiLink": false,
+      "viewonce": false,
+      "simi": false,
+      "autogpt": false,
+      "expired": 0,
+      "autoSticker": false,
+      "premium": false,
+      "premiumTime": false,
+      "nsfw": false,
+      "menu": true,
+      "antiToxic": false
+    }
+  },
+  "stats": {
+    "menu.js": {
+      "total": 6,
+      "success": 6,
+      "last": 1760463044847,
+      "lastSuccess": 1760463044847
+    },
+    "ai.js": {
+      "total": 5,
+      "success": 5,
+      "last": 1759716048962,
+      "lastSuccess": 1759716048962
+    },
+    "Allmenu.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1759710614180,
+      "lastSuccess": 0
+    },
+    "tool-translate.js": {
+      "total": 4,
+      "success": 2,
+      "last": 1759716473683,
+      "lastSuccess": 1759716473683
+    },
+    "yta.js": {
+      "total": 4,
+      "success": 4,
+      "last": 1759712667322,
+      "lastSuccess": 1759712667322
+    },
+    "ai-3d.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1759712730110,
+      "lastSuccess": 1759712730110
+    },
+    "downloader-facebook.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1759713101003,
+      "lastSuccess": 1759713101003
+    },
+    "anime-otakudesusearch.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1759713128682,
+      "lastSuccess": 0
+    },
+    "sticker-sticker.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1759713192511,
+      "lastSuccess": 1759713192511
+    },
+    "downloader-play.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1759713212824,
+      "lastSuccess": 1759713212824
+    },
+    "ai-blackbox.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1759715275254,
+      "lastSuccess": 1759715275254
+    },
+    "internet-fetch.js": {
+      "total": 2,
+      "success": 0,
+      "last": 1759715623867,
+      "lastSuccess": 0
+    },
+    "tes-pin2.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1759715756020,
+      "lastSuccess": 1759715756020
+    },
+    "main-daftar.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1759715966375,
+      "lastSuccess": 1759715966375
+    },
+    "anime-jadianime.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1759716185771,
+      "lastSuccess": 1759716185771
+    },
+    "image-wallpaper.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1759716231079,
+      "lastSuccess": 1759716231079
+    },
+    "game-genshinprofile.js": {
+      "total": 3,
+      "success": 3,
+      "last": 1759716501204,
+      "lastSuccess": 1759716501204
+    },
+    "tool-ip.js": {
+      "total": 5,
+      "success": 2,
+      "last": 1759716937418,
+      "lastSuccess": 1759716937418
+    },
+    "tempmail.js": {
+      "total": 2,
+      "success": 2,
+      "last": 1759717515738,
+      "lastSuccess": 1759717515738
+    },
+    "speed.js": {
+      "total": 3,
+      "success": 0,
+      "last": 1760462979180,
+      "lastSuccess": 0
+    }
+  },
+  "msgs": {},
+  "sticker": {},
+  "settings": {
+    "22243453718@s.whatsapp.net": {
+      "self": false,
+      "autoread": true,
+      "anticall": true,
+      "restartDB": 0,
+      "restrict": false
+    }
+  }
+}

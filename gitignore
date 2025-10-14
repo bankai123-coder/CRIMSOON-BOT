@@ -1,0 +1,27 @@
+# مجلدات Node.js والاعتماديات
+node_modules/
+package-lock.json
+
+# ملفات الجلسات والبيانات المؤقتة
+sessions/
+tmp/
+logs/
+media/
+
+# ملفات النسخ الاحتياطية
+lib_backup/
+plugins_backup/
+config_backup.js
+
+# ملفات النظام أو البيانات المحلية التي لا نريد رفعها
+database.json
+survival_user.json
+user.json
+wikipedia_cache.json
+
+# ملفات الاختبار
+test*.js
+
+# ملفات أخرى غير مهمة
+*.bak
+*.zip
