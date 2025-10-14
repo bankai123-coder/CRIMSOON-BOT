@@ -1,0 +1,4289 @@
+🤖 Bot Commands List
+======================================================================
+
+
+📂 AI FEATURES
+──────────────────────────────────────────────────
+1. 📄 ai-3d.js
+   📖 Help: ai3d <نص>
+   🏷️ Tags: ai
+   ⚡ Commands: ['ai3d']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 ai-askai.js
+   📖 Help: askai <نموذج> <سؤال> | listmodel
+   🏷️ Tags: ai
+   ⚡ Commands: /^askai|listmodel$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 ai-blackbox.js
+   📖 Help: blackbox <سؤال>
+   🏷️ Tags: ai
+   ⚡ Commands: ['blackbox']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 ai-bocchi.js
+   📖 Help: bocchiai <نص>
+   🏷️ Tags: ai
+   ⚡ Commands: /^bocchiai$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 ai-claudeai.js
+   📖 Help: claudeai <نص>
+   🏷️ Tags: ai
+   ⚡ Commands: /^claudeai$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 ai-code.js
+   📖 Help: aicode
+   🏷️ Tags: ai
+   ⚡ Commands: /^aicode$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 ai-codegen.js
+   📖 Help: codegen <لغة> <نموذج> <موجه>
+   🏷️ Tags: tools, ai
+   ⚡ Commands: No commands
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 ai-colorify.js
+   📖 Help: ['colorify [anime/ghibli]
+   🏷️ Tags: ai, image
+   ⚡ Commands: No commands
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 ai-dopple.js
+   📖 Help: dopple
+   🏷️ Tags: ai
+   ⚡ Commands: ['dopple']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 ai-editfoto.js
+   📖 Help: editfoto <موجه>
+   🏷️ Tags: ai
+   ⚡ Commands: ['editfoto']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 ai-elaina.js
+   📖 Help: elainaai <رسالة>
+   🏷️ Tags: ai
+   ⚡ Commands: /^elainaai$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 ai-ghibli.js
+   📖 Help: ghibli
+   🏷️ Tags: ai
+   ⚡ Commands: /^ghibli$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 ai-gpt.js
+   📖 Help: gpt <question> | جي-بي-تي <سؤال>
+   🏷️ Tags: ai
+   ⚡ Commands: /^(gptonline|gpt|جي-بي-تي)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 ai-imgpromot.js
+   📖 Help: img2promt
+   🏷️ Tags: ai
+   ⚡ Commands: ['img2promt']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 ai-kita.js
+   📖 Help: kitaai <رسالة> | كيتا <رسالة>
+   🏷️ Tags: ai
+   ⚡ Commands: /^(kitaai|كيتا)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 ai-nijika.js
+   📖 Help: nijikaai <pesan>
+   🏷️ Tags: ai
+   ⚡ Commands: /^nijikaai$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+17. 📄 ai-prabowo.js
+   📖 Help: prabowo
+   🏷️ Tags: ai
+   ⚡ Commands: /^prabowo$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 ai-ryo.js
+   📖 Help: ryoai <pesan>
+   🏷️ Tags: ai
+   ⚡ Commands: /^ryoai$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+19. 📄 ai-t2v.js
+   📖 Help: t2v | texttovideo
+   🏷️ Tags: ai
+   ⚡ Commands: ['t2v', 'texttovideo']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+20. 📄 ai-wuguri.js
+   📖 Help: wuguri <pesan>
+   🏷️ Tags: ai
+   ⚡ Commands: /^wuguri$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+21. 📄 anime-jadianime.js
+   📖 Help: toanime
+   🏷️ Tags: anime, ai
+   ⚡ Commands: /^(toanime)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+22. 📄 fun-simi.js
+   📖 Help: simi
+   🏷️ Tags: ai
+   ⚡ Commands: ['simi']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 ADULT CONTENT
+──────────────────────────────────────────────────
+1. 📄 nsfw-hentai.js
+   📖 Help: hentai
+   🏷️ Tags: nsfw
+   ⚡ Commands: ['hentai']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 nsfw-nhentaidl.js
+   📖 Help: nhentaidl <code>
+   🏷️ Tags: nsfw
+   ⚡ Commands: /^nhentaidl$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 nsfw-paptt.js
+   📖 Help: paptt
+   🏷️ Tags: nsfw
+   ⚡ Commands: /^(paptt)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 nsfw-random.js
+   📖 Help: genshin | swimsuit | schoolswimsuit | white | barefoot | touhou | gamecg | hololive | uncensored | sunglasses | glasses | weapon | shirtlift | chain | fingering | flatchest | torncloth | bondage | demon | wet | pantypull | headdress | headphone | tie | anusview | shorts | stokings | topless | beach | bunnygirl | bunnyear | idol | vampire | gun | maid | bra | nobra | bikini | whitehair | blonde | pinkhair | bed | ponytail | nude | dress | underwear | foxgirl | uniform | skirt | sex | sex2 | sex3 | breast | twintail | spreadpussy | tears | seethrough | breasthold | drunk | fateseries | spreadlegs | openshirt | headband | food | close | tree | nipples | erectnipples | horns | greenhair | wolfgirl | catgirl
+   🏷️ Tags: nsfw
+   ⚡ Commands: handler.help
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 nsfw-rule34.js
+   📖 Help: rule34
+   🏷️ Tags: nsfw
+   ⚡ Commands: /^rule34$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 nsfw-sblowjob.js
+   📖 Help: sblowjob
+   🏷️ Tags: nsfw
+   ⚡ Commands: ['sblowjob']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 nsfw-wecchi.js
+   📖 Help: wecchi
+   🏷️ Tags: nsfw
+   ⚡ Commands: /^wecchi$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 nsfw-wfauzuri.js
+   📖 Help: wpaizuri
+   🏷️ Tags: nsfw
+   ⚡ Commands: /^wpaizuri$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 nsfw-whentai.js
+   📖 Help: whentai
+   🏷️ Tags: nsfw
+   ⚡ Commands: ['whentai']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 nsfw-wmaid.js
+   📖 Help: wmaid
+   🏷️ Tags: nsfw
+   ⚡ Commands: ['wmaid']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 nsfw-wmilf.js
+   📖 Help: wmilf
+   🏷️ Tags: nsfw
+   ⚡ Commands: /^wmilf$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 nsfw-wneko.js
+   📖 Help: wneko
+   🏷️ Tags: nsfw
+   ⚡ Commands: /^wneko$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 nsfw-woppai.js
+   📖 Help: woppai
+   🏷️ Tags: nsfw
+   ⚡ Commands: ['woppai']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 nsfw-woral.js
+   📖 Help: woral
+   🏷️ Tags: nsfw
+   ⚡ Commands: ['woral']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 nsfw.js
+   📖 Help: nsfw
+   🏷️ Tags: nsfw
+   ⚡ Commands: /^nsfw$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 nsfwstiker.js
+   📖 Help: nsfwstiker
+   🏷️ Tags: nsfw
+   ⚡ Commands: /^nsfwstiker$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 ANIME
+──────────────────────────────────────────────────
+1. 📄 anicenseri.js
+   📖 Help: anichinseri <url>
+   🏷️ Tags: anime
+   ⚡ Commands: No commands
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 anilist.js
+   📖 Help: anilist
+   🏷️ Tags: anime
+   ⚡ Commands: /^(anilist)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 anime-bluearchive.js
+   📖 Help: bluearchive
+   🏷️ Tags: anime, random
+   ⚡ Commands: /^bluearchive$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 anime-fanart.js
+   📖 Help: fanart
+   🏷️ Tags: anime
+   ⚡ Commands: /^(fanart)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 anime-imagesearch.js
+   📖 Help: animesearch
+   🏷️ Tags: anime
+   ⚡ Commands: /^(animesearch)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 anime-info.js
+   📖 Help: animeinfo <anime>
+   🏷️ Tags: anime
+   ⚡ Commands: /^(animeinfo)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 anime-jadianime.js
+   📖 Help: toanime
+   🏷️ Tags: anime, ai
+   ⚡ Commands: /^(toanime)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 anime-loli2.js
+   📖 Help: loli2
+   🏷️ Tags: anime
+   ⚡ Commands: /^(loli2)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 anime-otakudesusearch.js
+   📖 Help: anime <judul>
+   🏷️ Tags: anime
+   ⚡ Commands: /^anime$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 anime-random.js
+   📖 Help: No info
+   🏷️ Tags: anime
+   ⚡ Commands: handler.help = [
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 anime-waifu3.js
+   📖 Help: waifu3
+   🏷️ Tags: anime
+   ⚡ Commands: /^(waifu3)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 search-kurogaze.js
+   📖 Help: kurogaze <judul>
+   🏷️ Tags: anime, search
+   ⚡ Commands: /^kurogaze$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 story-anime.js
+   📖 Help: storyanime | animestory
+   🏷️ Tags: anime
+   ⚡ Commands: /^(stor(i|y)a?nime|a?nimestor(i|y))$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 CONFESSIONS
+──────────────────────────────────────────────────
+1. 📄 memfess.js
+   📖 Help: menfess | menfes | confess | confes | memfess
+   🏷️ Tags: memfess
+   ⚡ Commands: /^(menfess|menfes|confess|confes)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ✅ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 CONTROL PANEL
+──────────────────────────────────────────────────
+1. 📄 panel-cadmin.js
+   📖 Help: ['cadmin <username>[,nomor]
+   🏷️ Tags: panel
+   ⚡ Commands: ['cadmin']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 panel-cpanel.js
+   📖 Help: 1gb | 2gb | 3gb | 4gb | 5gb | 6gb | 7gb | 8gb | 9gb | 10gb | unlimited | unli
+   🏷️ Tags: panel
+   ⚡ Commands: /^(1gb|2gb|3gb|4gb|5gb|6gb|7gb|8gb|9gb|10gb|unlimited|unli)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 panel-deladmin.js
+   📖 Help: deladmin <id_user_admin>
+   🏷️ Tags: panel
+   ⚡ Commands: ['deladmin']
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 panel-delpanel.js
+   📖 Help: delpanel
+   🏷️ Tags: panel
+   ⚡ Commands: /^delpanel$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 panel-listadmin.js
+   📖 Help: listadmin
+   🏷️ Tags: panel
+   ⚡ Commands: /^listadmin$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 panel-listpanel.js
+   📖 Help: listpanel | listp | listserver
+   🏷️ Tags: panel
+   ⚡ Commands: /^(listpanel|listp|listserver)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 DOWNLOAD TOOLS
+──────────────────────────────────────────────────
+1. 📄 download-X.js
+   📖 Help: twitter | x
+   🏷️ Tags: downloader
+   ⚡ Commands: ['twitter', 'x']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 download-Xhs.js
+   📖 Help: xhs
+   🏷️ Tags: downloader
+   ⚡ Commands: ['xhs']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 download-yt5so.js
+   📖 Help: yt5so <Url Ig/Facebook>
+   🏷️ Tags: downloader
+   ⚡ Commands: ['yt5so']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 downloader-aio.js
+   📖 Help: aio <url>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(aio)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 downloader-capcut.js
+   📖 Help: capcut
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(capcut)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 downloader-facebook.js
+   📖 Help: fb <url|quality> | فيسبوك <رابط|جودة>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(fb|facebook|fesnuk|فيسبوك)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 downloader-gdrive.js
+   📖 Help: gdrive
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(gdrive)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 downloader-googledrive.js
+   📖 Help: gdrive <url>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^gdrive$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 downloader-ig.js
+   📖 Help: igdl <url> | انستقرام <رابط>
+   🏷️ Tags: downloader
+   ⚡ Commands: ['igdl', 'ig', 'instagram', 'انستقرام', 'انستا']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 downloader-igaudio.js
+   📖 Help: instaaudio | igaudio
+   🏷️ Tags: downloader
+   ⚡ Commands: /(instaaudio|igaudio|inastagramaudio)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 downloader-instatiktok.js
+   📖 Help: dlit <platform> <url>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^dlit$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 downloader-mediafire.js
+   📖 Help: mediafire <link>
+   🏷️ Tags: downloader
+   ⚡ Commands: ['mediafire', 'mf']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 downloader-pin.js
+   📖 Help: pinterest
+   🏷️ Tags: downloader
+   ⚡ Commands: /^pin$|^lagi$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 downloader-play.js
+   📖 Help: play <query> | تشغيل <بحث>
+   🏷️ Tags: downloader
+   ⚡ Commands: ['play', 'song', 'تشغيل', 'اغنية']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 downloader-sfile.js
+   📖 Help: No info
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(sfile)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 downloader-spotify.js
+   📖 Help: spotify <song> | سبوتيفاي <اغنية>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(spotify|سبوتيفاي)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+17. 📄 downloader-threads.js
+   📖 Help: threads
+   🏷️ Tags: downloader
+   ⚡ Commands: ['threads']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 downloader-tiktok.js
+   📖 Help: tiktok <url> | تيك_توك <رابط>
+   🏷️ Tags: downloader
+   ⚡ Commands: ['tiktok', 'tt', 'ttdl', 'تيك_توك']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+19. 📄 downloader-tiktok2.js
+   📖 Help: tiktok2 <url>
+   🏷️ Tags: downloader
+   ⚡ Commands: /(tiktok2|tt2)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+20. 📄 downloader-tiktok3.js
+   📖 Help: tiktokdl3 <url>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(tiktokdl3|tt3)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+21. 📄 downloader-tiktok_img.js
+   📖 Help: tiktokimg / ttimg <url>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(ttimg|tiktokimg)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+22. 📄 downloader-ttmusic.js
+   📖 Help: ttmusic
+   🏷️ Tags: downloader
+   ⚡ Commands: ['ttmusic', 'ttmp3']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+23. 📄 downloader-videy.js
+   📖 Help: videy <url>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^videy$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+24. 📄 downloader-videy2.js
+   📖 Help: videydl <url>
+   🏷️ Tags: downloader
+   ⚡ Commands: ['videydl']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+25. 📄 image-wallpaper.js
+   📖 Help: wallpaper <query>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^wallpaper$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+26. 📄 pindl.js
+   📖 Help: pindl
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(pindl)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+27. 📄 pindl2.js
+   📖 Help: pindl2
+   🏷️ Tags: downloader
+   ⚡ Commands: ['pindl2']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+28. 📄 soundcloud.js
+   📖 Help: soundcloud
+   🏷️ Tags: downloader
+   ⚡ Commands: ['soundcloud', 'plays']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+29. 📄 tes-pin2.js
+   📖 Help: pinterest2 <query> <jumlah>
+   🏷️ Tags: downloader, search
+   ⚡ Commands: ['pinterest2', 'pin2']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+30. 📄 yt-play3.js
+   📖 Help: play3 <judul>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(play3)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+31. 📄 yta.js
+   📖 Help: ['yta <url> [128]
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(yta|ytmp3|audioyt|صوت)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+32. 📄 yta2.js
+   📖 Help: ytmp3-2 <link youtube>
+   🏷️ Tags: downloader
+   ⚡ Commands: ['ytmp3-2', 'yta2']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+33. 📄 yta3.js
+   📖 Help: ytmp3-3
+   🏷️ Tags: downloader
+   ⚡ Commands: ['ytmp3-3', 'yta3']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+34. 📄 ytplay2.js
+   📖 Help: play2 | ytmp3
+   🏷️ Tags: downloader, downloader
+   ⚡ Commands: ['play2'] | ['ytmp3']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+35. 📄 ytplay2.js
+   📖 Help: play2 | ytmp3
+   🏷️ Tags: downloader, downloader
+   ⚡ Commands: ['play2'] | ['ytmp3']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+36. 📄 ytpost.js
+   📖 Help: ytpost <link post YouTube>
+   🏷️ Tags: downloader
+   ⚡ Commands: /^ytpost$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+37. 📄 ytv.js
+   📖 Help: ['ytv <url> [360]
+   🏷️ Tags: downloader
+   ⚡ Commands: /^(ytv|ytmp4|videoyt|فيديو)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 ENTERTAINMENT
+──────────────────────────────────────────────────
+1. 📄 cekhodam.js
+   📖 Help: cekkhodam *<name>*
+   🏷️ Tags: fun
+   ⚡ Commands: /^cekkhodam/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 cekkontol.js
+   📖 Help: cekkontol *<name>*
+   🏷️ Tags: fun
+   ⚡ Commands: /^cekkontol/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 cekmemek.js
+   📖 Help: cekmemek *<name>*
+   🏷️ Tags: fun
+   ⚡ Commands: /^cekmemek|cekmmk/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 fun-alay.js
+   📖 Help: alay
+   🏷️ Tags: fun
+   ⚡ Commands: ['alay']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 fun-angka.js
+   📖 Help: angka <0-9>
+   🏷️ Tags: fun
+   ⚡ Commands: /^angka/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 fun-apakah.js
+   📖 Help: apakah <teks>?
+   🏷️ Tags: fun
+   ⚡ Commands: /^apakah$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 fun-benarkah.js
+   📖 Help: benarkah
+   🏷️ Tags: fun
+   ⚡ Commands: /^benarkah/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 fun-bisakah.js
+   📖 Help: bisakah <pertanyaan>
+   🏷️ Tags: fun
+   ⚡ Commands: /^bisakah/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 fun-cekcantik.js
+   📖 Help: cantikcek
+   🏷️ Tags: fun
+   ⚡ Commands: /^(cantikcek|cekcantik)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 fun-cektt.js
+   📖 Help: cektt *<name>*
+   🏷️ Tags: fun
+   ⚡ Commands: /^cekpentil|cektt/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 fun-dimanakah.js
+   📖 Help: dimanakah <pertanyaan>
+   🏷️ Tags: fun
+   ⚡ Commands: /^dimanakah$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 fun-jadian.js
+   📖 Help: jadian
+   🏷️ Tags: main, fun
+   ⚡ Commands: ['jadian']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+13. 📄 fun-kapankah.js
+   📖 Help: kapankah <pertanyaan>
+   🏷️ Tags: fun
+   ⚡ Commands: /^kapankah$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 fun-kematian.js
+   📖 Help: kematian <nama opsional>
+   🏷️ Tags: fun
+   ⚡ Commands: /^kematian$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 fun-kerangajaib.js
+   📖 Help: kerang | kerangajaib
+   🏷️ Tags: fun
+   ⚡ Commands: /^(kulit)?kerang(ajaib)?$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 fun-mimpi.js
+   📖 Help: dreamworld | dream | mimpi | dreamexp
+   🏷️ Tags: fun
+   ⚡ Commands: /^dreamworld|dream|mimpi$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+17. 📄 fun-ramalan.js
+   📖 Help: ramal <nama opsional>
+   🏷️ Tags: fun
+   ⚡ Commands: /^ramal$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 fun-seberapagila.js
+   📖 Help: seberapagila <nama opsional>
+   🏷️ Tags: fun
+   ⚡ Commands: /^seberapagila$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+19. 📄 fun-sipaling2.js
+   📖 Help: sipaling
+   🏷️ Tags: fun
+   ⚡ Commands: ['sipaling']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+20. 📄 fun-suratcinta.js
+   📖 Help: suratcinta <nama>
+   🏷️ Tags: fun
+   ⚡ Commands: /^suratcinta$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+21. 📄 fun-tebakumur.js
+   📖 Help: tebakumur
+   🏷️ Tags: fun
+   ⚡ Commands: /^(tebakumur)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+22. 📄 fun-top.js
+   📖 Help: top
+   🏷️ Tags: fun
+   ⚡ Commands: /^top$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+23. 📄 funcek.js
+   📖 Help: No info
+   🏷️ Tags: fun
+   ⚡ Commands: ['goblokcek', 'jelekcek', 'gaycek', 'rate', 'lesbicek', 'gantengcek',
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+24. 📄 game-suitpvp.js
+   📖 Help: حجر_ورق_مقص_ضد_لاعب @مستخدم
+   🏷️ Tags: fun
+   ⚡ Commands: /^(suitpvp|حجر_ورق_مقص_ضد_لاعب)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+25. 📄 maker-sertifikatcinta.js
+   📖 Help: sertifikatcinta <nama>
+   🏷️ Tags: maker, fun
+   ⚡ Commands: /^sertifikatcinta$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+26. 📄 maker-sertifikatlemot.js
+   📖 Help: sertifikatlemot <nama>
+   🏷️ Tags: fun, maker
+   ⚡ Commands: /^sertifikatlemot$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+27. 📄 moveon.js
+   📖 Help: moveon
+   🏷️ Tags: fun
+   ⚡ Commands: /^moveon$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+28. 📄 search-soundmeme.js
+   📖 Help: soundmeme-listnama nama | soundmeme-random | soundmeme-search nama
+   🏷️ Tags: search, fun
+   ⚡ Commands: /^soundmeme2/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+29. 📄 tool-morse.js
+   📖 Help: morse | demorse
+   🏷️ Tags: fun, tools
+   ⚡ Commands: /^(morse|demorse)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+30. 📄 vn.js
+   📖 Help: .ara | .lopyou
+   🏷️ Tags: Hiburan, fun
+   ⚡ Commands: /^(Ara ara|ara ara|Ara|ara|lopyou|lopyu|loveyou|love|lope|lupyu|iloveyou)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 GAMES
+──────────────────────────────────────────────────
+1. 📄 game-bom.js
+   📖 Help: bomb
+   🏷️ Tags: game
+   ⚡ Commands: /^(bomb|قنبلة)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 game-caklontong.js
+   📖 Help: caklontong
+   🏷️ Tags: game
+   ⚡ Commands: /^(caklontong|لغز)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 game-cerdascermat.js
+   📖 Help: مسابقة <المادة> <عدد_الأسئلة> | cc <المادة> <عدد_الأسئلة>
+   🏷️ Tags: game, education
+   ⚡ Commands: ['cerdascermat', 'cc', 'مسابقة']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 game-family100.js
+   📖 Help: family100
+   🏷️ Tags: game
+   ⚡ Commands: /^(family100|العائلة100)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 game-genshinprofile.js
+   📖 Help: genshinprofile
+   🏷️ Tags: game
+   ⚡ Commands: /^(genshinprofile)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 game-kuis.js
+   📖 Help: kuis
+   🏷️ Tags: game
+   ⚡ Commands: /^(kuis|اختبار)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 game-leaderboard.js
+   📖 Help: leaderboard <المستوى|الحد|الخبرة>
+   🏷️ Tags: game
+   ⚡ Commands: /^(leaderboard|المتصدرين)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 game-lengkapikalimat.js
+   📖 Help: اكمل_الجملة
+   🏷️ Tags: game
+   ⚡ Commands: /^(lengkapikalimat|اكمل_الجملة)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 game-perangsarung.js
+   📖 Help: حرب_السارونغ @مستخدم
+   🏷️ Tags: game
+   ⚡ Commands: /^(perangsarung|حرب_السارونغ)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+10. 📄 game-siapakahaku.js
+   📖 Help: من_أنا
+   🏷️ Tags: game
+   ⚡ Commands: /^(siapa(kah)?aku|من_أنا)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 game-suit.js
+   📖 Help: ['حجر_ورق_مقص [حجر|ورق|مقص]
+   🏷️ Tags: game
+   ⚡ Commands: /^(suit|حجر_ورق_مقص)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 game-susunkata.js
+   📖 Help: رتب_الكلمات
+   🏷️ Tags: game
+   ⚡ Commands: /^(susunkata|sskata|رتب_الكلمات)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 game-tebakan.js
+   📖 Help: تخمين
+   🏷️ Tags: game
+   ⚡ Commands: /^(tebaktebakan|تخمين)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 game-tebakbendera.js
+   📖 Help: خمن_العلم
+   🏷️ Tags: game
+   ⚡ Commands: /^(tebakbendera|خمن_العلم)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+15. 📄 game-tebakgambar.js
+   📖 Help: خمن_الصورة
+   🏷️ Tags: game
+   ⚡ Commands: /^(tebakgambar|خمن_الصورة)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 game-tebakgame.js
+   📖 Help: خمن_اللعبة
+   🏷️ Tags: game
+   ⚡ Commands: /^(tebakgame|خمن_اللعبة)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+17. 📄 game-tebakkimia.js
+   📖 Help: خمن_الكيمياء
+   🏷️ Tags: game
+   ⚡ Commands: /^(tebakkimia|خمن_الكيمياء)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 game-tebaklirik.js
+   📖 Help: خمن_الكلمات
+   🏷️ Tags: game
+   ⚡ Commands: /^(tebaklirik|خمن_الكلمات)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+19. 📄 game-tebaklogo.js
+   📖 Help: خمن_الشعار
+   🏷️ Tags: game
+   ⚡ Commands: /^(tebaklogo|خمن_الشعار)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+20. 📄 game-tebakmakanan.js
+   📖 Help: خمن_الطعام
+   🏷️ Tags: game
+   ⚡ Commands: /^(tebakmakanan|خمن_الطعام)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+21. 📄 game-tebaktebakan.js
+   📖 Help: خمن
+   🏷️ Tags: game
+   ⚡ Commands: /^(tebaktebakan|خمن)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+22. 📄 game-togel.js
+   📖 Help: togel | angka | stoptogel
+   🏷️ Tags: game
+   ⚡ Commands: /^(togel|angka|stoptogel)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ✅ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+23. 📄 game-truthordare.js
+   📖 Help: truthordare | tod
+   🏷️ Tags: game
+   ⚡ Commands: /^(truthordare|tod)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+24. 📄 game-ulartangga.js
+   📖 Help: ulartangga
+   🏷️ Tags: game
+   ⚡ Commands: /^(ular(tangga)?|ladders|snak(e)?)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+25. 📄 game-war-attack.js
+   📖 Help: attack | atk
+   🏷️ Tags: game
+   ⚡ Commands: /^(attack|atk)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+26. 📄 game-war.js
+   📖 Help: war
+   🏷️ Tags: game
+   ⚡ Commands: /^(war)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+27. 📄 games-tictactoe.js
+   📖 Help: tictactoe | ttt
+   🏷️ Tags: game
+   ⚡ Commands: /^(tictactoe|t{3})$/
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+28. 📄 info-listheroml.js
+   📖 Help: listhero | heroml
+   🏷️ Tags: game
+   ⚡ Commands: /^(listhero|heroml)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+29. 📄 internet-heroml.js
+   📖 Help: mlhero <nama>
+   🏷️ Tags: internet, game
+   ⚡ Commands: /^mlhero$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+30. 📄 rpg-polisi.js
+   📖 Help: polisi | polisi cari | polisi status | polisi item <item> | polisi leaderboard | polisi stop
+   🏷️ Tags: game
+   ⚡ Commands: ["polisi"]
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+31. 📄 rpg.js
+   📖 Help: dungeon
+   🏷️ Tags: rpg, game
+   ⚡ Commands: ['dungeon', 'dg']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+32. 📄 survival.js
+   📖 Help: survival
+   🏷️ Tags: rpg, game
+   ⚡ Commands: ["survival", "sv"]
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+33. 📄 wrml.js
+   📖 Help: wrml <totalMatch> <winMatch> <targetWR%>
+   🏷️ Tags: tools, game
+   ⚡ Commands: /^wrml$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 GROUP
+──────────────────────────────────────────────────
+1. 📄 _getpp.js
+   📖 Help: getpp <@tag/reply>
+   🏷️ Tags: group
+   ⚡ Commands: /^(getpp)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 enable.js
+   📖 Help: en | dis
+   🏷️ Tags: group, owner
+   ⚡ Commands: /^((en|dis)able|(tru|fals)e|(turn)?o(n|ff)|[01])$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 expired-cek.js
+   📖 Help: cekexpired
+   🏷️ Tags: group
+   ⚡ Commands: /^(cekexpired|cekkadaluarsa|checkexpired|checkkadaluarsa)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+4. 📄 group-add.js
+   📖 Help: add | +
+   🏷️ Tags: group
+   ⚡ Commands: /^(add|\+)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+5. 📄 group-cekasalmember.js
+   📖 Help: cekasalmember
+   🏷️ Tags: group
+   ⚡ Commands: /^cekasalmember$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+6. 📄 group-demote.js
+   📖 Help: demote @tag
+   🏷️ Tags: group
+   ⚡ Commands: /^(demote)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+7. 📄 group-hidetag.js
+   📖 Help: hidetag
+   🏷️ Tags: group
+   ⚡ Commands: /^(hidetag|htag|h)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+8. 📄 group-info.js
+   📖 Help: infogc | معلومات_المجموعة
+   🏷️ Tags: group
+   ⚡ Commands: /^(gro?upinfo|info(gro?up|gc)|معلومات_المجموعة)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+9. 📄 group-kick.js
+   📖 Help: kick
+   🏷️ Tags: group
+   ⚡ Commands: /^(kick|dor)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+10. 📄 group-link.js
+   📖 Help: linkgroup
+   🏷️ Tags: group
+   ⚡ Commands: /^link(gro?up)?$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 group-opentime.js
+   📖 Help: opentime <angka> <unit>
+   🏷️ Tags: group
+   ⚡ Commands: ['opentime']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+12. 📄 group-polling.js
+   📖 Help: poll
+   🏷️ Tags: group
+   ⚡ Commands: /^(poll|polling)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+13. 📄 group-setbye.js
+   📖 Help: setbye
+   🏷️ Tags: group
+   ⚡ Commands: /^(setbye)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+14. 📄 group-setppgc.js
+   📖 Help: setpp
+   🏷️ Tags: group
+   ⚡ Commands: /^setpp$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+15. 📄 group-settings.js
+   📖 Help: gc *open / close*
+   🏷️ Tags: group
+   ⚡ Commands: /^(group|gc)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ✅
+
+16. 📄 group-setwelcome.js
+   📖 Help: setwelcome
+   🏷️ Tags: group
+   ⚡ Commands: /^(setwelcome|setw)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+17. 📄 group-sider.js
+   📖 Help: gcsider
+   🏷️ Tags: group
+   ⚡ Commands: /^(gcsider|sider|getsider)$/i),
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 group-tagall.js
+   📖 Help: tagall
+   🏷️ Tags: group
+   ⚡ Commands: ['tagall']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+19. 📄 group-tagsw.js
+   📖 Help: tagsw <group_id> <teks>
+   🏷️ Tags: group
+   ⚡ Commands: /^tagsw$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+20. 📄 group-totag.js
+   📖 Help: totag
+   🏷️ Tags: group
+   ⚡ Commands: /^(totag|tag|h)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+21. 📄 group-totalpesan.js
+   📖 Help: totalpesan
+   🏷️ Tags: group
+   ⚡ Commands: /^(totalpesan)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+22. 📄 group-tutupjam-bukajam.js
+   📖 Help: tutupjam <jam:menit> | bukajam <jam:menit>
+   🏷️ Tags: group
+   ⚡ Commands: ['tutupjam', 'bukajam']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+23. 📄 kudetagc.js
+   📖 Help: kudeta | kudetagc
+   🏷️ Tags: group
+   ⚡ Commands: /^kudeta(gc)?$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+24. 📄 owner-kick.js
+   📖 Help: kick
+   🏷️ Tags: group
+   ⚡ Commands: /^(kick)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+25. 📄 spamtag.js
+   📖 Help: spamtag @user
+   🏷️ Tags: group
+   ⚡ Commands: ['spamtag']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+26. 📄 tools-antitagsw.js
+   📖 Help: antitagsw on/off
+   🏷️ Tags: group
+   ⚡ Commands: /^antitagsw$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ✅
+
+
+📂 INFO
+──────────────────────────────────────────────────
+1. 📄 cek-warn.js
+   📖 Help: cekwarn
+   🏷️ Tags: info
+   ⚡ Commands: /^(cekwarn)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 creator.js
+   📖 Help: owner | creator | المالك | المطور
+   🏷️ Tags: info
+   ⚡ Commands: /^(owner|creator|المالك|المطور)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 group-delete.js
+   📖 Help: delete
+   🏷️ Tags: info
+   ⚡ Commands: /^(del|delete|unsend?)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ✅
+
+4. 📄 info-bmkggempa.js
+   📖 Help: bmkggempa
+   🏷️ Tags: info
+   ⚡ Commands: /^bmkggempa$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 info-grouplist.js
+   📖 Help: groups | grouplist
+   🏷️ Tags: info
+   ⚡ Commands: /^(group(s|list))$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 info-laporown.js
+   📖 Help: lapor
+   🏷️ Tags: info
+   ⚡ Commands: /^lapor$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 info-liburnasional.js
+   📖 Help: liburnas
+   🏷️ Tags: info
+   ⚡ Commands: /^liburnas$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 info-runtime.js
+   📖 Help: runtime | مدة_التشغيل
+   🏷️ Tags: info
+   ⚡ Commands: ['runtime', 'rt', 'مدة_التشغيل']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 info-script.js
+   📖 Help: script | sc | المصدر | سكريبت
+   🏷️ Tags: info
+   ⚡ Commands: /^(sc|script|المصدر|سكريبت)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 info-toplimit.js
+   📖 Help: toplimit
+   🏷️ Tags: info
+   ⚡ Commands: /^toplimit$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 info-totalfitur.js
+   📖 Help: totalfitur | إجمالي_الميزات
+   🏷️ Tags: info
+   ⚡ Commands: ['totalfitur', 'إجمالي_الميزات']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 infogempa.js
+   📖 Help: infogempa
+   🏷️ Tags: info
+   ⚡ Commands: ['infogempa']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 owner-listprem.js
+   📖 Help: ['premlist [angka]
+   🏷️ Tags: info
+   ⚡ Commands: /^(cekprem|listprem|premlist)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ✅
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 owner.js
+   📖 Help: owner | creator
+   🏷️ Tags: info
+   ⚡ Commands: /^(owner|creator)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 speed.js
+   📖 Help: ping | speed | info
+   🏷️ Tags: info
+   ⚡ Commands: /^(ping|speed|info)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 INTERNET
+──────────────────────────────────────────────────
+1. 📄 fontsearch.js
+   📖 Help: fontsearch <text>
+   🏷️ Tags: internet
+   ⚡ Commands: /^fontsearch$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 internet-Tafsir.js
+   📖 Help: tafsir
+   🏷️ Tags: internet
+   ⚡ Commands: ['tafsir']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 internet-beritabola.js
+   📖 Help: beritabola
+   🏷️ Tags: internet
+   ⚡ Commands: /^beritabola$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 internet-dafont.js
+   📖 Help: dafont <nama>
+   🏷️ Tags: internet
+   ⚡ Commands: /^dafont$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 internet-fetch.js
+   📖 Help: fetch | get
+   🏷️ Tags: internet
+   ⚡ Commands: /^(fetch|get)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 internet-github-trend.js
+   📖 Help: githubtrend
+   🏷️ Tags: internet
+   ⚡ Commands: ["githubtrend"]
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 internet-groupsearch.js
+   📖 Help: groupsearch <kata kunci>
+   🏷️ Tags: internet, premium
+   ⚡ Commands: ['groupsearch']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 internet-heroml.js
+   📖 Help: mlhero <nama>
+   🏷️ Tags: internet, game
+   ⚡ Commands: /^mlhero$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 internet-infoloker.js
+   📖 Help: infoloker
+   🏷️ Tags: internet
+   ⚡ Commands: /^(infoloker)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 internet-kompas.js
+   📖 Help: kompas
+   🏷️ Tags: internet
+   ⚡ Commands: /^kompas$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 internet-mangga-pop.js
+   📖 Help: mangga-pop
+   🏷️ Tags: internet
+   ⚡ Commands: /^mangalist$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 internet-misteri.js
+   📖 Help: misteri
+   🏷️ Tags: internet
+   ⚡ Commands: ['misteri']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 internet-mltour.js
+   📖 Help: mltour
+   🏷️ Tags: internet
+   ⚡ Commands: /^(mltour)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 internet-playstore.js
+   📖 Help: playstore
+   🏷️ Tags: internet
+   ⚡ Commands: /^(playstore|ps)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 internet-surah.js
+   📖 Help: surah
+   🏷️ Tags: internet
+   ⚡ Commands: ["surah"]
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 internet-wordltime.js
+   📖 Help: worldtime | waktuglobal
+   🏷️ Tags: internet
+   ⚡ Commands: ['worldtime', 'waktuglobal']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+17. 📄 jadwalsholat.js
+   📖 Help: jadwalsholat kota
+   🏷️ Tags: internet
+   ⚡ Commands: ['jadwalsholat', 'sholat']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 komik.js
+   📖 Help: komiksearch <judul> | komikdetail <id/url>
+   🏷️ Tags: internet
+   ⚡ Commands: ['komiksearch', 'komikdetail']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+19. 📄 lirik.js
+   📖 Help: lirik
+   🏷️ Tags: internet
+   ⚡ Commands: ['lirik']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+20. 📄 meme.js
+   📖 Help: meme
+   🏷️ Tags: internet
+   ⚡ Commands: /^meme$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+21. 📄 novel-royalroad.js
+   📖 Help: rrsearch <judul> | rrdetail <url> | rrlatest | rrprofile <url>
+   🏷️ Tags: novel, internet
+   ⚡ Commands: No commands
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+22. 📄 pastebin.js
+   📖 Help: pastebin <url>
+   🏷️ Tags: internet
+   ⚡ Commands: ['pastebin']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+23. 📄 renungan.js
+   📖 Help: renungan
+   🏷️ Tags: internet
+   ⚡ Commands: /^(renungan)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+24. 📄 tool-igsearch.js
+   📖 Help: igsearch <query>
+   🏷️ Tags: search, internet
+   ⚡ Commands: /^(igsearch|igfind|instagramsearch)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+25. 📄 tools-cekweb.js
+   📖 Help: iplookup <domain>
+   🏷️ Tags: internet
+   ⚡ Commands: /^(iplookup)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+26. 📄 tools-gsmarena.js
+   📖 Help: gsmarena <nama hp>
+   🏷️ Tags: tools, internet
+   ⚡ Commands: ['gsmarena', 'gsmspek', 'hpspek']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+27. 📄 ttsba.js
+   📖 Help: ttsba <teks>
+   🏷️ Tags: tools, internet
+   ⚡ Commands: /^(ttsba|batt?s)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+28. 📄 uhdpaper.js
+   📖 Help: uhdpaper <query>
+   🏷️ Tags: internet
+   ⚡ Commands: /^uhdpaper$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 MAIN
+──────────────────────────────────────────────────
+1. 📄 @verify.js
+   📖 Help: @تأكيد
+   🏷️ Tags: main
+   ⚡ Commands: new RegExp
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 Allmenu.js
+   📖 Help: menu | help | ? | القائمة
+   🏷️ Tags: main
+   ⚡ Commands: /^(allmenu|help|\?|القائمة)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ✅
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 afk-afk.js
+   📖 Help: ['afk [سبب]
+   🏷️ Tags: main
+   ⚡ Commands: /^(afk|غير_متصل)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 exp-unreg.js
+   📖 Help: unreg <الرقم التسلسلي> | إلغاء_التسجيل <الرقم التسلسلي>
+   🏷️ Tags: main
+   ⚡ Commands: /^(unreg(ister)?|إلغاء_التسجيل)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 fun-jadian.js
+   📖 Help: jadian
+   🏷️ Tags: main, fun
+   ⚡ Commands: ['jadian']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+6. 📄 info-dash.js
+   📖 Help: dashboard
+   🏷️ Tags: main
+   ⚡ Commands: /^(dashboard)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 main-limit.js
+   📖 Help: limit | حد
+   🏷️ Tags: main
+   ⚡ Commands: /^(limit|حد|الحد)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ✅
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 main-order.js
+   📖 Help: order
+   🏷️ Tags: main
+   ⚡ Commands: /^(order|sewa|premium)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 menu.js
+   📖 Help: menu | القائمة
+   🏷️ Tags: main
+   ⚡ Commands: /^(menu|القائمة)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 MAKER
+──────────────────────────────────────────────────
+1. 📄 ktpmaker.js
+   📖 Help: cktp <data>
+   🏷️ Tags: maker
+   ⚡ Commands: /^cktp$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 maker-fakediscoard.js
+   📖 Help: fdc <username|pesan|url> | fakediscoard
+   🏷️ Tags: maker
+   ⚡ Commands: ['fdc', 'fakediscoard']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 maker-faketiktok.js
+   📖 Help: faketiktok
+   🏷️ Tags: maker
+   ⚡ Commands: /^faketiktok|tiktokfake$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 maker-fakexnxx.js
+   📖 Help: fakexnxx <nama> | <quote>
+   🏷️ Tags: maker
+   ⚡ Commands: /^fakexnxx$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 maker-ipqc.js
+   📖 Help: iqc <pesan>
+   🏷️ Tags: maker
+   ⚡ Commands: ['iqc']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 maker-ngl.js
+   📖 Help: ngl <title>|<text>
+   🏷️ Tags: maker
+   ⚡ Commands: /^ngl$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 maker-pixelglitch.js
+   📖 Help: pixelglitch <teks>
+   🏷️ Tags: maker
+   ⚡ Commands: /^pixelglitch$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 maker-pornhublogo.js
+   📖 Help: phlogo <text1>|<text2>
+   🏷️ Tags: maker
+   ⚡ Commands: /^phlogo$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 maker-sdmtinggi.js
+   📖 Help: tosdmtinggi
+   🏷️ Tags: maker
+   ⚡ Commands: /^(tosdmtinggi|sdmtinggi)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 maker-sertifikatcinta.js
+   📖 Help: sertifikatcinta <nama>
+   🏷️ Tags: maker, fun
+   ⚡ Commands: /^sertifikatcinta$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 maker-sertifikatlemot.js
+   📖 Help: sertifikatlemot <nama>
+   🏷️ Tags: fun, maker
+   ⚡ Commands: /^sertifikatlemot$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 maker-sertifitolol.js
+   📖 Help: sertiftolol <nama> | sertifikattolol <nama>
+   🏷️ Tags: maker
+   ⚡ Commands: /^sertiftolol|sertifikattolol$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 maker-tweet.js
+   📖 Help: tweet <nama>,<username>,<teks>
+   🏷️ Tags: maker
+   ⚡ Commands: ['tweet']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 maker-wanted.js
+   📖 Help: wanted <image_url>
+   🏷️ Tags: maker
+   ⚡ Commands: /^wanted$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 nulis.js
+   📖 Help: n
+   🏷️ Tags: maker
+   ⚡ Commands: /^nulis$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 sertifikat-darksistem.js
+   📖 Help: srtdarksistem <teks>
+   🏷️ Tags: maker
+   ⚡ Commands: /^srtdarksistem$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+17. 📄 tools-iqc.js
+   📖 Help: iqc jam|batre|pesan
+   🏷️ Tags: maker
+   ⚡ Commands: ['iqc']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 tweetmaker.js
+   📖 Help: tweet <nama>,<username>,<teks>
+   🏷️ Tags: maker
+   ⚡ Commands: ['tweet']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 OWNER
+──────────────────────────────────────────────────
+1. 📄 enable.js
+   📖 Help: en | dis
+   🏷️ Tags: group, owner
+   ⚡ Commands: /^((en|dis)able|(tru|fals)e|(turn)?o(n|ff)|[01])$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 expired-del.js
+   📖 Help: delexpired
+   🏷️ Tags: owner
+   ⚡ Commands: /^(delexpired|delsewa)$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+3. 📄 msgch.js
+   📖 Help: msgch
+   🏷️ Tags: owner
+   ⚡ Commands: /^(msgch)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 owner-add.js
+   📖 Help: add | +
+   🏷️ Tags: owner
+   ⚡ Commands: /^(oadd|o\+)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+5. 📄 owner-addlimit.js
+   📖 Help: addlimit
+   🏷️ Tags: owner
+   ⚡ Commands: /^addlimit(user)?$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 owner-addowner.js
+   📖 Help: addowner <nomor>
+   🏷️ Tags: owner
+   ⚡ Commands: /^addowner$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 owner-addprem.js
+   📖 Help: addprem @user 7 | addprem 628xxxxx 7
+   🏷️ Tags: owner
+   ⚡ Commands: /^(add|tambah|\+)p(rem)?$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ✅
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 owner-autotyping.js
+   📖 Help: ['autotyping [on/off]
+   🏷️ Tags: owner
+   ⚡ Commands: /^autotyping$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 owner-balas.js
+   📖 Help: balas
+   🏷️ Tags: owner
+   ⚡ Commands: /^(balas|reply)/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 owner-balas_img.js
+   📖 Help: balas-img
+   🏷️ Tags: owner
+   ⚡ Commands: /^(balas-img|reply-img)/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 owner-banchat.js
+   📖 Help: banchat | unbanchat | حظر_دردشة | رفع_حظر_الدردشة
+   🏷️ Tags: owner
+   ⚡ Commands: /^(banchat|unbanchat|حظر_دردشة|رفع_حظر_الدردشة)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 owner-banuser.js
+   📖 Help: ban
+   🏷️ Tags: owner
+   ⚡ Commands: /^ban(user)?$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 owner-broadcast.js
+   📖 Help: إذاعة <نص> | bc <نص>
+   🏷️ Tags: owner
+   ⚡ Commands: /^(broadcast|bc|إذاعة)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 owner-broadcastgc.js
+   📖 Help: bcgc <teks>
+   🏷️ Tags: owner
+   ⚡ Commands: /^bcgc|broadcast$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 owner-clearchat.js
+   📖 Help: clearchat
+   🏷️ Tags: owner
+   ⚡ Commands: /^(clearchat)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 owner-clearsession.js
+   📖 Help: clearsession
+   🏷️ Tags: owner
+   ⚡ Commands: /^(clearsession|clear)$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+17. 📄 owner-delplugin.js
+   📖 Help: deleteplugin <namafile>
+   🏷️ Tags: owner
+   ⚡ Commands: /^(deleteplugin|delplugin)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 owner-delprem.js
+   📖 Help: delprem
+   🏷️ Tags: owner
+   ⚡ Commands: /^delprem(user)?$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ✅
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+19. 📄 owner-deluser.js
+   📖 Help: deleteuser
+   🏷️ Tags: owner
+   ⚡ Commands: /^(d(el)?(ete)?u(ser)?|ha?pu?su(ser)?)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+20. 📄 owner-getdb.js
+   📖 Help: getdb
+   🏷️ Tags: owner
+   ⚡ Commands: /^(getdb)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+21. 📄 owner-gp.js
+   📖 Help: getplugin
+   🏷️ Tags: owner
+   ⚡ Commands: /^(getplugin|gp)$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+22. 📄 owner-join.js
+   📖 Help: join <chat.whatsapp.com>
+   🏷️ Tags: owner
+   ⚡ Commands: /^join$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ✅
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+23. 📄 owner-leavegc.js
+   📖 Help: leavegc | out
+   🏷️ Tags: owner
+   ⚡ Commands: /^(out|leavegc)$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+24. 📄 owner-listplugin.js
+   📖 Help: listplugin
+   🏷️ Tags: owner
+   ⚡ Commands: /^listplugin$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+25. 📄 owner-promote.js
+   📖 Help: opromote @tag
+   🏷️ Tags: owner
+   ⚡ Commands: /^(opromote)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+26. 📄 owner-pushkontak.js
+   📖 Help: pushkontak
+   🏷️ Tags: owner
+   ⚡ Commands: /^(pushkontak)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+27. 📄 owner-resetchat.js
+   📖 Help: resetchat
+   🏷️ Tags: owner
+   ⚡ Commands: /^(resetchat)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+28. 📄 owner-restart.js
+   📖 Help: restart | إعادة_التشغيل
+   🏷️ Tags: owner
+   ⚡ Commands: /^(res(tart)?|إعادة_التشغيل)$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+29. 📄 owner-sesi.js
+   📖 Help: getsession
+   🏷️ Tags: owner
+   ⚡ Commands: /^(g(et)?ses?si(on)?(data.json)?)$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+30. 📄 owner-setbio.js
+   📖 Help: setbio
+   🏷️ Tags: owner
+   ⚡ Commands: /^(setbio)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+31. 📄 owner-sf.js
+   📖 Help: saveplugin
+   🏷️ Tags: owner
+   ⚡ Commands: /^(sf|saveplugin|sp)$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+32. 📄 owner-simulate.js
+   📖 Help: ['simulate <event> [@mention]
+   🏷️ Tags: owner
+   ⚡ Commands: /^(simulate|simulasi)$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+33. 📄 owner-tagall.js
+   📖 Help: o-tagall
+   🏷️ Tags: owner
+   ⚡ Commands: ['o-tagall']
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+34. 📄 owner-tagsw.js
+   📖 Help: upswimage | upswvideo | upswtext | upswaudio | upsw
+   🏷️ Tags: owner
+   ⚡ Commands: /^(upswimage|upswvideo|upswtext|upswaudio|upsw)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+35. 📄 owner-unbanchat.js
+   📖 Help: unbanchat
+   🏷️ Tags: owner
+   ⚡ Commands: /^(unbanchat|ubnc)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+36. 📄 owner-unbanuser.js
+   📖 Help: unban
+   🏷️ Tags: owner
+   ⚡ Commands: /^unban(user)?$/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+37. 📄 playch.js
+   📖 Help: playch <judul>
+   🏷️ Tags: owner
+   ⚡ Commands: ["playch"]
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+38. 📄 reactch.js
+   📖 Help: reactch
+   🏷️ Tags: owner, premium
+   ⚡ Commands: /^(reactch)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+39. 📄 resetlimit.js
+   📖 Help: limit
+   🏷️ Tags: owner
+   ⚡ Commands: /^(resetlimit)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+40. 📄 self-public.js
+   📖 Help: self | public
+   🏷️ Tags: owner
+   ⚡ Commands: /^(self|public)/i
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+41. 📄 tool-uppastebin.js
+   📖 Help: up-pb
+   🏷️ Tags: owner
+   ⚡ Commands: /^(up-pb|uppastebin)$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+42. 📄 tools-upch.js
+   📖 Help: No info
+   🏷️ Tags: owner
+   ⚡ Commands: ["upch", "setchid", "addchid", "getchid"]
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 QUOTES
+──────────────────────────────────────────────────
+1. 📄 quote-maker.js
+   📖 Help: quote <teks> | <ppUrl>
+   🏷️ Tags: quotes
+   ⚡ Commands: /^quote$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 quotes-anime.js
+   📖 Help: quotesanime
+   🏷️ Tags: quotes
+   ⚡ Commands: /^quotesanime$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 quotes-bacot.js
+   📖 Help: bacot
+   🏷️ Tags: quotes
+   ⚡ Commands: /^(bacot)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 quotes-bucin.js
+   📖 Help: q-bucin
+   🏷️ Tags: quotes
+   ⚡ Commands: /^(q-bucin)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 quotes-dare.js
+   📖 Help: dare
+   🏷️ Tags: quotes
+   ⚡ Commands: /^(dare)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 quotes-gombal.js
+   📖 Help: gombal
+   🏷️ Tags: quotes
+   ⚡ Commands: /^gombal$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 quotes-ilmuan.js
+   📖 Help: quotesilmuan
+   🏷️ Tags: quotes
+   ⚡ Commands: /^quotesilmuan$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 quotes-islam.js
+   📖 Help: q-islam
+   🏷️ Tags: quotes
+   ⚡ Commands: /^(q-islam)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 quotes-motivasi.js
+   📖 Help: motivasi
+   🏷️ Tags: quotes
+   ⚡ Commands: /^motivasi$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 quotes-ngasal.js
+   📖 Help: ngasal
+   🏷️ Tags: quotes
+   ⚡ Commands: /^ngasal$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 quotes-pantun.js
+   📖 Help: pantun
+   🏷️ Tags: quotes
+   ⚡ Commands: /^(pantun)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 quotes-senja.js
+   📖 Help: senja
+   🏷️ Tags: quotes
+   ⚡ Commands: /^senja$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 quotes-sunda.js
+   📖 Help: syairsunda
+   🏷️ Tags: quotes
+   ⚡ Commands: /^syairsunda$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 quotes-syairaceh.js
+   📖 Help: syairaceh
+   🏷️ Tags: quotes
+   ⚡ Commands: /^syairaceh$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 quotes-syairchina.js
+   📖 Help: syairchina
+   🏷️ Tags: quotes
+   ⚡ Commands: /^syairchina$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 quotes-syairminangkabau.js
+   📖 Help: syairminangkabau
+   🏷️ Tags: quotes
+   ⚡ Commands: /^syairminangkabau$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+17. 📄 quotes-truth.js
+   📖 Help: truth
+   🏷️ Tags: quotes
+   ⚡ Commands: /^(truth)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 RPG
+──────────────────────────────────────────────────
+1. 📄 rpg-ceklevel.js
+   📖 Help: ceklvl
+   🏷️ Tags: rpg
+   ⚡ Commands: /^ceklvl$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 rpg-duel.js
+   📖 Help: duel @user
+   🏷️ Tags: rpg
+   ⚡ Commands: /^duel$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 rpg-dungeon.js
+   📖 Help: dungeon
+   🏷️ Tags: rpg
+   ⚡ Commands: /^dungeon$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 rpg-hero.js
+   📖 Help: hero
+   🏷️ Tags: rpg
+   ⚡ Commands: /^(hero)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 rpg-inventory.js
+   📖 Help: inventory
+   🏷️ Tags: rpg
+   ⚡ Commands: /^inventory$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 rpg-jual.js
+   📖 Help: jual <item>
+   🏷️ Tags: rpg
+   ⚡ Commands: /^jual$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 rpg-kerja.js
+   📖 Help: kerja | work
+   🏷️ Tags: rpg
+   ⚡ Commands: /^kerja$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 rpg-levelup.js
+   📖 Help: levelup
+   🏷️ Tags: rpg
+   ⚡ Commands: /^levelup$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 rpg-mulai.js
+   📖 Help: mulai
+   🏷️ Tags: rpg
+   ⚡ Commands: /^mulai$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 rpg-skill.js
+   📖 Help: skill
+   🏷️ Tags: rpg
+   ⚡ Commands: /^skill$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 rpg-status.js
+   📖 Help: status
+   🏷️ Tags: rpg
+   ⚡ Commands: /^status$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 rpg-upgrade.js
+   📖 Help: upgrade <atk|hp>
+   🏷️ Tags: rpg
+   ⚡ Commands: /^upgrade$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 rpg.js
+   📖 Help: dungeon
+   🏷️ Tags: rpg, game
+   ⚡ Commands: ['dungeon', 'dg']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+14. 📄 survival.js
+   📖 Help: survival
+   🏷️ Tags: rpg, game
+   ⚡ Commands: ["survival", "sv"]
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+
+📂 RANDOM
+──────────────────────────────────────────────────
+1. 📄 anime-bluearchive.js
+   📖 Help: bluearchive
+   🏷️ Tags: anime, random
+   ⚡ Commands: /^bluearchive$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 lahelu.js
+   📖 Help: lahelu
+   🏷️ Tags: random
+   ⚡ Commands: /^lahelu$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 random-cecanchina.js
+   📖 Help: cecanchina
+   🏷️ Tags: random
+   ⚡ Commands: /^cecanchina$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 random-cecanindo.js
+   📖 Help: cecanindo
+   🏷️ Tags: random
+   ⚡ Commands: /^cecanindo$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 random-cecanjapan.js
+   📖 Help: cecanjapan
+   🏷️ Tags: random
+   ⚡ Commands: /^cecanjapan$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 random-cecankorea.js
+   📖 Help: cecankorea
+   🏷️ Tags: random
+   ⚡ Commands: /^cecankorea$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 random-cecanthailand.js
+   📖 Help: cecanthai
+   🏷️ Tags: random
+   ⚡ Commands: /^cecanthai$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 random-cecanvietnam.js
+   📖 Help: cecanvietnam
+   🏷️ Tags: random
+   ⚡ Commands: /^cecanvietnam$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 SEARCH
+──────────────────────────────────────────────────
+1. 📄 internet-google-img.js
+   📖 Help: googleimg
+   🏷️ Tags: search
+   ⚡ Commands: ['googleimg']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 search-carigrup.js
+   📖 Help: carigrup <keyword1,keyword2>
+   🏷️ Tags: search
+   ⚡ Commands: /^carigrup$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 search-kurogaze.js
+   📖 Help: kurogaze <judul>
+   🏷️ Tags: anime, search
+   ⚡ Commands: /^kurogaze$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 search-mcaddon.js
+   📖 Help: mcaddon
+   🏷️ Tags: search
+   ⚡ Commands: ['mcaddon']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 search-sfile.js
+   📖 Help: sfilesearch
+   🏷️ Tags: search
+   ⚡ Commands: ['sfilesearch']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 search-soundmeme.js
+   📖 Help: soundmeme-listnama nama | soundmeme-random | soundmeme-search nama
+   🏷️ Tags: search, fun
+   ⚡ Commands: /^soundmeme2/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 search-spotify.js
+   📖 Help: spotifys <query>
+   🏷️ Tags: search
+   ⚡ Commands: ['spotifys']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 search-stickerly.js
+   📖 Help: stickerlysearch <keyword>
+   🏷️ Tags: sticker, search
+   ⚡ Commands: /(stickerlys|stickerlysearch)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 search-tiktok.js
+   📖 Help: tiktoksearch
+   🏷️ Tags: search
+   ⚡ Commands: ['tiktoksearch']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 search-uptodown.js
+   📖 Help: uptodown
+   🏷️ Tags: search
+   ⚡ Commands: /^(uptodown)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 search-wiki.js
+   📖 Help: wiki
+   🏷️ Tags: search
+   ⚡ Commands: /^(wiki|wikipedia)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 tes-pin2.js
+   📖 Help: pinterest2 <query> <jumlah>
+   🏷️ Tags: downloader, search
+   ⚡ Commands: ['pinterest2', 'pin2']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 tool-igsearch.js
+   📖 Help: igsearch <query>
+   🏷️ Tags: search, internet
+   ⚡ Commands: /^(igsearch|igfind|instagramsearch)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 tool-ytstalk.js
+   📖 Help: ytstalk
+   🏷️ Tags: stalk, search
+   ⚡ Commands: /^(ytstalk|youtubestalk)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 SOUND
+──────────────────────────────────────────────────
+1. 📄 playncs.js
+   📖 Help: playncs
+   🏷️ Tags: sound
+   ⚡ Commands: /^playncs$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 sound-sad.js
+   📖 Help: sad
+   🏷️ Tags: sound
+   ⚡ Commands: ['sad']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ✅ | 🛡️ Admin: ❌
+
+3. 📄 sound.js
+   📖 Help: sound <sound1 - sound119>
+   🏷️ Tags: sound
+   ⚡ Commands: /^(sound1|sound2|sound3|sound4|sound5|sound6|sound7|sound8|sound9|sound10|sound11|sound12|sound13|sound14|sound15|sound16|sound17|sound18|sound19|sound20|sound21|sound22|sound23|sound24|sound25|sound26|sound27|sound28|sound29|sound30|sound31|sound32|sound33|sound34|sound35|sound36|sound37|sound38|sound39|sound40|sound41|sound42|sound43|sound44|sound45|sound46|sound47|sound48|sound49|sound50|sound51|sound52|sound53|sound54|sound55|sound56|sound57|sound58|sound59|sound60|sound61|sound62|sound63|sound64|sound65|sound66|sound67|sound68|sound69|sound70|sound71|sound72|sound73|sound74|sound75|sound76|sound77|sound78|sound79|sound80|sound81|sound82|sound83|sound84|sound85|sound86|sound87|sound88|sound89|sound90|sound91|sound92|sound93|sound94|sound95|sound96|sound97|sound98|sound99|sound100|sound101|sound102|sound103|sound104|sound105|sound106|sound107|sound108|sound109|sound110|sound111|sound112|sound113|sound114|sound115|sound116|sound117|sound118|sound119)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 soundmeme.js
+   📖 Help: soundmeme
+   🏷️ Tags: sound
+   ⚡ Commands: /^soundmeme$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 tools-mikutalk.js
+   📖 Help: mikutalk <teks>
+   🏷️ Tags: tools, sound
+   ⚡ Commands: /^mikutalk$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 tts.js
+   📖 Help: No info
+   🏷️ Tags: tools, sound
+   ⚡ Commands: /^tts$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 ttsai.js
+   📖 Help: ttsai <model/random/list> | <teks>
+   🏷️ Tags: tools, sound
+   ⚡ Commands: /^ttsai$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 STALK
+──────────────────────────────────────────────────
+1. 📄 stalk-ff.js
+   📖 Help: ffstalk
+   🏷️ Tags: stalk
+   ⚡ Commands: /^(ffstalk|freestalk)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 stalk-ml.js
+   📖 Help: mlstalk <userId> <zoneId>
+   🏷️ Tags: stalk
+   ⚡ Commands: /^(mlstalk)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 tiktok-stalk.js
+   📖 Help: ttstalk
+   🏷️ Tags: stalk
+   ⚡ Commands: /^(ttstalk)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 tool-cekml.js
+   📖 Help: cekml <id> <server>
+   🏷️ Tags: stalk
+   ⚡ Commands: /^(cekml|checkml|mlcheck)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 tool-stalker.js
+   📖 Help: wastalk
+   🏷️ Tags: stalk
+   ⚡ Commands: /^(wa|whatsapp)stalk$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 tool-ytstalk.js
+   📖 Help: ytstalk
+   🏷️ Tags: stalk, search
+   ⚡ Commands: /^(ytstalk|youtubestalk)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 STICKERS
+──────────────────────────────────────────────────
+1. 📄 giftsticker.js
+   📖 Help: gifsticker <query>,<jumlah>
+   🏷️ Tags: sticker
+   ⚡ Commands: ['gifsticker']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 qc2.js
+   📖 Help: qc2 <warna>
+   🏷️ Tags: sticker
+   ⚡ Commands: /^(qc2)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 search-stickerly.js
+   📖 Help: stickerlysearch <keyword>
+   🏷️ Tags: sticker, search
+   ⚡ Commands: /(stickerlys|stickerlysearch)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 sticker-animebrat.js
+   📖 Help: animebrat <teks>
+   🏷️ Tags: sticker
+   ⚡ Commands: ['animebrat']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 sticker-animebrat2.js
+   📖 Help: animebrat2
+   🏷️ Tags: sticker
+   ⚡ Commands: /^(animebrat2)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 sticker-attp.js
+   📖 Help: ttp | attp
+   🏷️ Tags: sticker
+   ⚡ Commands: /^(ttp|attp)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 sticker-brat2.js
+   📖 Help: brat2
+   🏷️ Tags: sticker
+   ⚡ Commands: /^(brat2)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 sticker-brat3.js
+   📖 Help: brat3
+   🏷️ Tags: sticker
+   ⚡ Commands: ['brat3']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 sticker-bratcolor.js
+   📖 Help: bratcolor <teks>|<warna>
+   🏷️ Tags: sticker
+   ⚡ Commands: /(brcolor|bratcolor)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 sticker-bratvid2.js
+   📖 Help: bratvid2 <text>
+   🏷️ Tags: sticker
+   ⚡ Commands: /^bratvid2$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 sticker-emojimix.js
+   📖 Help: emojimix
+   🏷️ Tags: sticker
+   ⚡ Commands: /^(emojimix|emix)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 sticker-ryoyamada.js
+   📖 Help: ryo
+   🏷️ Tags: sticker
+   ⚡ Commands: /^ryo$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 sticker-search.js
+   📖 Help: stickersearch <query>
+   🏷️ Tags: sticker
+   ⚡ Commands: /^stickersearch$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 sticker-sticker.js
+   📖 Help: ['sticker [packname|author]
+   🏷️ Tags: sticker
+   ⚡ Commands: /^s(tic?ker)?(gif)?$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 sticker-telegram.js
+   📖 Help: telestick <url>
+   🏷️ Tags: sticker
+   ⚡ Commands: /^telestick$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 sticker-toimg.js
+   📖 Help: toimg (reply)
+   🏷️ Tags: sticker
+   ⚡ Commands: ['toimg']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+17. 📄 sticker-tovideo.js
+   📖 Help: tovideo
+   🏷️ Tags: sticker
+   ⚡ Commands: ['tovideo', 'tomp4']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 sticker-wm.js
+   📖 Help: wm <packname>|<author>
+   🏷️ Tags: sticker
+   ⚡ Commands: /^wm$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+19. 📄 stickerly.js
+   📖 Help: stikerly <query>
+   🏷️ Tags: sticker
+   ⚡ Commands: /(stikerly|stickerly)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+20. 📄 stickerly2.js
+   📖 Help: stickerly2 <url>
+   🏷️ Tags: sticker
+   ⚡ Commands: ["stickerly2", "stikerly2"]
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+21. 📄 stiker-nekopack.js
+   📖 Help: smug | woof | gasm | 8ball | goose | cuddle | avatar | slap | v3 | pat | gecg | feed | fox_girl | lizard | neko | hug | meow | kiss | wallpaper | tickle | spank | waifu | lewd | ngif
+   🏷️ Tags: sticker
+   ⚡ Commands: /^(smug|woof|gasm|8ball|goose|cuddle|avatar|slap|v3|pat|gecg|feed|fox_girl|lizard|neko|hug|meow|kiss|wallpaper|tickle|spank|waifu|lewd|ngif)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 TOOLS
+──────────────────────────────────────────────────
+1. 📄 ai-codegen.js
+   📖 Help: codegen <لغة> <نموذج> <موجه>
+   🏷️ Tags: tools, ai
+   ⚡ Commands: No commands
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 bratbutton.js
+   📖 Help: bratb
+   🏷️ Tags: tools
+   ⚡ Commands: /^bratb$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 ccgen.js
+   📖 Help: ccgen <type> <jumlah>
+   🏷️ Tags: tools
+   ⚡ Commands: ['ccgen']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 getcode.js
+   📖 Help: getcode <url>
+   🏷️ Tags: tools
+   ⚡ Commands: /^getcode$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 hitamkan.js
+   📖 Help: penghitaman
+   🏷️ Tags: tools
+   ⚡ Commands: ['penghitaman', 'hytam', 'hitamkan', 'hitam']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 internet-cuaca.js
+   📖 Help: cuaca
+   🏷️ Tags: tools
+   ⚡ Commands: ['cuaca', 'weather']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 internet-ssweb.js
+   📖 Help: ssweb <url>
+   🏷️ Tags: tools
+   ⚡ Commands: /^ssweb$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 pinlens.js
+   📖 Help: pinlens
+   🏷️ Tags: tools
+   ⚡ Commands: ['pinlens']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 rch.js
+   📖 Help: rch
+   🏷️ Tags: tools
+   ⚡ Commands: ['rch']
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 searchcode.js
+   📖 Help: searchcode
+   🏷️ Tags: tools
+   ⚡ Commands: /^searchcode$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 sticker-fstik.js
+   📖 Help: fstik
+   🏷️ Tags: tools
+   ⚡ Commands: ['fstik', 'stickerinfo']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 tempmail.js
+   📖 Help: tempmail | cekmail <token> | pesanmail <id>
+   🏷️ Tags: tools
+   ⚡ Commands: /^tempmail|cekmail|pesanmail$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 tobotak.js
+   📖 Help: tobotak
+   🏷️ Tags: tools
+   ⚡ Commands: No commands
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 tool-cekhost.js
+   📖 Help: checkhost | cekhost
+   🏷️ Tags: tools
+   ⚡ Commands: ['checkhost', 'cekhost', 'check']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 tool-chord.js
+   📖 Help: chord <judul lagu>
+   🏷️ Tags: tools
+   ⚡ Commands: /^(chord)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 tool-gmaps.js
+   📖 Help: jarak
+   🏷️ Tags: tools
+   ⚡ Commands: /^(jarak)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+17. 📄 tool-ip.js
+   📖 Help: ip
+   🏷️ Tags: tools
+   ⚡ Commands: handler.help = ['ip']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 tool-jadwaltv.js
+   📖 Help: jadwaltv
+   🏷️ Tags: tools
+   ⚡ Commands: /^jadwaltv$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+19. 📄 tool-morse.js
+   📖 Help: morse | demorse
+   🏷️ Tags: fun, tools
+   ⚡ Commands: /^(morse|demorse)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+20. 📄 tool-qrcode.js
+   📖 Help: No info
+   🏷️ Tags: tools
+   ⚡ Commands: /^qr(code)?$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+21. 📄 tool-readmore.js
+   📖 Help: readmore
+   🏷️ Tags: tools
+   ⚡ Commands: /^(spoiler|hidetext|readmore|selengkapnya)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+22. 📄 tool-readviewonce.js
+   📖 Help: read
+   🏷️ Tags: tools
+   ⚡ Commands: /^read/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+23. 📄 tool-removbg.js
+   📖 Help: removebg | ازالة-الخلفية
+   🏷️ Tags: tools
+   ⚡ Commands: ['removebg', 'rbg', 'ازالة-الخلفية']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+24. 📄 tool-spamwa.js
+   📖 Help: spamwa <number>|<mesage>|<no of messages>
+   🏷️ Tags: tools
+   ⚡ Commands: /^spam(wa)?$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ✅ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+25. 📄 tool-translate.js
+   📖 Help: translate
+   🏷️ Tags: tools
+   ⚡ Commands: /^(tran(slate)|tr?)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+26. 📄 tools-amdata.js
+   📖 Help: amdata
+   🏷️ Tags: tools
+   ⚡ Commands: ['amdata', 'presetam']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+27. 📄 tools-breach.js
+   📖 Help: breach <email>
+   🏷️ Tags: tools
+   ⚡ Commands: /^breach$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+28. 📄 tools-cekidch.js
+   📖 Help: cekidch <link>
+   🏷️ Tags: tools
+   ⚡ Commands: ['cekidch', 'idch']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+29. 📄 tools-cekidch2.js
+   📖 Help: cekidch2
+   🏷️ Tags: tools
+   ⚡ Commands: ["cekidch2", "idch2"]
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+30. 📄 tools-cekresi.js
+   📖 Help: cekresi
+   🏷️ Tags: tools
+   ⚡ Commands: /^cekresi$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+31. 📄 tools-dec.js
+   📖 Help: encode | decode
+   🏷️ Tags: tools
+   ⚡ Commands: ['encode', 'decode']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+32. 📄 tools-ekspedisilist.js
+   📖 Help: ekspedisilist
+   🏷️ Tags: tools
+   ⚡ Commands: /^ekspedisilist$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+33. 📄 tools-encode.js
+   📖 Help: encode | decode
+   🏷️ Tags: tools
+   ⚡ Commands: ['encode', 'decode']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+34. 📄 tools-gsmarena.js
+   📖 Help: gsmarena <nama hp>
+   🏷️ Tags: tools, internet
+   ⚡ Commands: ['gsmarena', 'gsmspek', 'hpspek']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+35. 📄 tools-hd.js
+   📖 Help: upscale
+   🏷️ Tags: tools, image
+   ⚡ Commands: ['upscale', 'hd', 'remini']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+36. 📄 tools-hd2.js
+   📖 Help: hd2 <scale> <type>
+   🏷️ Tags: tools
+   ⚡ Commands: /^hd2$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+37. 📄 tools-hd4.js
+   📖 Help: hd4
+   🏷️ Tags: tools
+   ⚡ Commands: /^hd4$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+38. 📄 tools-hdvid.js
+   📖 Help: hdvid | hdvideo
+   🏷️ Tags: tools
+   ⚡ Commands: ['hdvid', 'hdvideo']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+39. 📄 tools-image.js
+   📖 Help: imgtools <type>
+   🏷️ Tags: tools
+   ⚡ Commands: ['imgtools']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+40. 📄 tools-mikutalk.js
+   📖 Help: mikutalk <teks>
+   🏷️ Tags: tools, sound
+   ⚡ Commands: /^mikutalk$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+41. 📄 tools-nik.js
+   📖 Help: nik <nomor>
+   🏷️ Tags: tools
+   ⚡ Commands: No commands
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+42. 📄 tools-numbgen.js
+   📖 Help: numbgen
+   🏷️ Tags: tools
+   ⚡ Commands: /^numbgen$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+43. 📄 tools-ocr.js
+   📖 Help: ocr
+   🏷️ Tags: tools
+   ⚡ Commands: ['ocr']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+44. 📄 tools-removebg2.js
+   📖 Help: removebg2 | removebghd
+   🏷️ Tags: tools
+   ⚡ Commands: ['removebg2', 'removebghd']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+45. 📄 tools-s2c.js
+   📖 Help: s2c <url>
+   🏷️ Tags: tools
+   ⚡ Commands: ['screenshot2code', 's2c']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+46. 📄 tools-sharetext.js
+   📖 Help: shareteks teks
+   🏷️ Tags: tools
+   ⚡ Commands: /^(shareteks|bagiteks)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+47. 📄 tools-tomp3.js
+   📖 Help: tomp3
+   🏷️ Tags: tools
+   ⚡ Commands: ['tomp3']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+48. 📄 tools-unblur.js
+   📖 Help: unblur | unblur mild
+   🏷️ Tags: tools
+   ⚡ Commands: ['unblur']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+49. 📄 tourl.js
+   📖 Help: upload
+   🏷️ Tags: tools
+   ⚡ Commands: ['upload']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+50. 📄 tourl3.js
+   📖 Help: tourl
+   🏷️ Tags: tools
+   ⚡ Commands: /^(tourl)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+51. 📄 transcibe.js
+   📖 Help: transcibe url-video-yt
+   🏷️ Tags: tools
+   ⚡ Commands: /^transcibe$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+52. 📄 tts-ondoku.js
+   📖 Help: ondoku <voice|text> | voiceondoku
+   🏷️ Tags: tools
+   ⚡ Commands: /^ondoku|voiceondoku$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+53. 📄 tts.js
+   📖 Help: No info
+   🏷️ Tags: tools, sound
+   ⚡ Commands: /^tts$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+54. 📄 ttsai.js
+   📖 Help: ttsai <model/random/list> | <teks>
+   🏷️ Tags: tools, sound
+   ⚡ Commands: /^ttsai$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+55. 📄 ttsba.js
+   📖 Help: ttsba <teks>
+   🏷️ Tags: tools, internet
+   ⚡ Commands: /^(ttsba|batt?s)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+56. 📄 waifuhtm.js
+   📖 Help: ['waifuhtm [filter]
+   🏷️ Tags: tools
+   ⚡ Commands: /^(waifuhtm|waifufilterlist)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+57. 📄 wrml.js
+   📖 Help: wrml <totalMatch> <winMatch> <targetWR%>
+   🏷️ Tags: tools, game
+   ⚡ Commands: /^wrml$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+58. 📄 yts.js
+   📖 Help: yts <query>
+   🏷️ Tags: tools
+   ⚡ Commands: /^yts(earch)?(\s\d+)?$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+
+📂 UNCATEGORIZED
+──────────────────────────────────────────────────
+1. 📄 _claim-limit.js
+   📖 Help: claimlimit
+   🏷️ Tags: No tags
+   ⚡ Commands: /^(claimlimit)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+2. 📄 ai-text2img.js
+   📖 Help: [\'text2img <prompt>\', \'تحويل-النص-الى-صورة <نص>\']
+   🏷️ Tags: [\'ai\']
+   ⚡ Commands: /^(text2img|توليد-صوره|تخيلي)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+3. 📄 exp-ceksn.js
+   📖 Help: ceksn
+   🏷️ Tags: xp
+   ⚡ Commands: /^(ceksn)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+4. 📄 game-asahotak-hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^hotak$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+5. 📄 game-blackjack.js
+   📖 Help: [\'blackjack\']
+   🏷️ Tags: [\'game\']
+   ⚡ Commands: [\'blackjack\', \'بلاكجاك\']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+6. 📄 game-caklontong_hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^(calo|مساعدة)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+7. 📄 game-siapakahaku_hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^(who|تلميح)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+8. 📄 game-tebakaml_hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: No commands
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+9. 📄 game-tebakan-hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^لمحة$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+10. 📄 game-tebakgambar-hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^لمحة_صورة$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+11. 📄 game-tebakgame_hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^لمحة_لعبة$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+12. 📄 game-tebaklirik_hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^لمحة_كلمات$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+13. 📄 game-tebaklogo_hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^لمحة_شعار$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+14. 📄 game-tebakmakanan-hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^لمحة_طعام$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+15. 📄 game-tebaktebakan_hint.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^لمحة_تخمين$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+16. 📄 intro.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: new RegExp
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+17. 📄 main-daftar.js
+   📖 Help: daftar | تسجيل | register
+   🏷️ Tags: user
+   ⚡ Commands: /^(daftar|verify|reg(ister)?|تسجيل|تحقق|سجل)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+18. 📄 nsfw2.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^(nsfw2)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ✅ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+19. 📄 owner-exec.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: new RegExp
+   🔑 Owner: ❌ | Rowner: ✅
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+20. 📄 owner-exec2.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^eval|js$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+21. 📄 owner-setppbot.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: /^(set(botpp|ppbot))$/i
+   🔑 Owner: ✅ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ❌
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+22. 📄 search-resep.js
+   📖 Help: resep
+   🏷️ Tags: No tags
+   ⚡ Commands: /^(resep)$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+23. 📄 stalk-ig.js
+   📖 Help: igstalk
+   🏷️ Tags: interner
+   ⚡ Commands: /^igstalk$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+24. 📄 stalk-twitter.js
+   📖 Help: twitterstalk <username>
+   🏷️ Tags: stalker
+   ⚡ Commands: /^twitterstalk$/i
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+25. 📄 tes123.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: new RegExp
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+26. 📄 tools-logopronhub.js
+   📖 Help: pornhublogo
+   🏷️ Tags: No tags
+   ⚡ Commands: ['pornhublogo']
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+27. 📄 waalaikumsalam2.js
+   📖 Help: No info
+   🏷️ Tags: No tags
+   ⚡ Commands: new RegExp
+   🔑 Owner: ❌ | Rowner: ❌
+   💎 Premium: ❌ | ⏱️ PremiumTime: ❌
+   📨 Private: ❌ | 🌐 Main/Public: ✅
+   👥 Group: ❌ | 🛡️ Admin: ❌
+
+======================================================================
+📊 Summary:
+• Total commands: 444
+• Categories: Main, Uncategorized, Group, AI Features, Tools, Anime, Random, Info, Entertainment, Download Tools, Owner, Internet, Games, Stickers, Search, Maker, Confessions, Adult Content, Control Panel, Sound, Quotes, RPG, Stalk
+🕒 Generated at: 10/14/2025, 1:29:57 PM

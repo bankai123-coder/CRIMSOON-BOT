@@ -1,0 +1,4 @@
+🔍 Plugin API Test — 10/14/2025, 4:01:59 PM
+
+[4:01:59 PM] @verify.js: ❗ Cannot read properties of undefined (reading 'data')
+[4:01:59 PM] Allmenu.js: ❗ Identifier 'min' has already been declared

@@ -1,0 +1,408 @@
+[10/14/2025, 4:07:38 PM] ðŸ”Ž Testing @verify.js (type: general)\n[10/14/2025, 4:07:39 PM] âŒ @verify.js: Cannot read properties of undefined (reading 'registered') â€” (Cannot read properties of undefined (reading 'registered'))\n[10/14/2025, 4:07:39 PM] ðŸ”Ž Testing Allmenu.js (type: general)\n[10/14/2025, 4:07:39 PM] âŒ Allmenu.js: Identifier 'min' has already been declared â€” (Identifier 'min' has already been declared)\n[10/14/2025, 4:07:39 PM] ðŸ”Ž Testing afk-_afk.js (type: general)\n[10/14/2025, 4:07:39 PM] âœ… afk-_afk.js â€” executed without uncaught error\n[10/14/2025, 4:07:39 PM] ðŸ”Ž Testing afk-afk.js (type: general)\n[10/14/2025, 4:07:39 PM] âŒ afk-afk.js: Cannot set properties of undefined (setting 'afk') â€” (Cannot set properties of undefined (setting 'afk'))\n[10/14/2025, 4:07:39 PM] ðŸ”Ž Testing ai-3d.js (type: ai)\n[10/14/2025, 4:07:45 PM] âœ… ai-3d.js â€” executed without uncaught error\n[10/14/2025, 4:07:45 PM] ðŸ”Ž Testing ai-askai.js (type: ai)\n[10/14/2025, 4:07:45 PM] âœ… ai-askai.js â€” executed without uncaught error\n[10/14/2025, 4:07:45 PM] ðŸ”Ž Testing ai-blackbox.js (type: ai)\n[10/14/2025, 4:07:46 PM] âœ… ai-blackbox.js â€” executed without uncaught error\n[10/14/2025, 4:07:46 PM] ðŸ”Ž Testing ai-bocchi.js (type: ai)\n[10/14/2025, 4:07:53 PM] âœ… ai-bocchi.js â€” executed without uncaught error\n[10/14/2025, 4:07:53 PM] ðŸ”Ž Testing ai-claudeai.js (type: ai)\n[10/14/2025, 4:08:05 PM] âœ… ai-claudeai.js â€” executed without uncaught error\n[10/14/2025, 4:08:05 PM] ðŸ”Ž Testing ai-code.js (type: ai)\n[10/14/2025, 4:08:06 PM] âŒ ai-code.js: فشل الطلب: Request failed with status code 400 â€” (فشل الطلب: Request failed with status code 400)\n[10/14/2025, 4:08:06 PM] ðŸ”Ž Testing ai-codegen.js (type: ai)\n[10/14/2025, 4:08:06 PM] âœ… ai-codegen.js â€” executed without uncaught error\n[10/14/2025, 4:08:06 PM] ðŸ”Ž Testing ai-colorify.js (type: ai)\n[10/14/2025, 4:08:06 PM] âœ… ai-colorify.js â€” executed without uncaught error\n[10/14/2025, 4:08:07 PM] ðŸ”Ž Testing ai-dopple.js (type: ai)\n[10/14/2025, 4:08:13 PM] âœ… ai-dopple.js â€” executed without uncaught error\n[10/14/2025, 4:08:13 PM] ðŸ”Ž Testing ai-editfoto.js (type: ai)\n[10/14/2025, 4:08:13 PM] âœ… ai-editfoto.js â€” executed without uncaught error\n[10/14/2025, 4:08:13 PM] ðŸ”Ž Testing ai-elaina.js (type: ai)\n[10/14/2025, 4:08:20 PM] âœ… ai-elaina.js â€” executed without uncaught error\n[10/14/2025, 4:08:20 PM] ðŸ”Ž Testing ai-ghibli.js (type: ai)\n[10/14/2025, 4:08:20 PM] âœ… ai-ghibli.js â€” executed without uncaught error\n[10/14/2025, 4:08:21 PM] ðŸ”Ž Testing ai-gpt.js (type: ai)\n[10/14/2025, 4:08:21 PM] âŒ ai-gpt.js: Invalid or unexpected token â€” (Invalid or unexpected token)\n[10/14/2025, 4:08:21 PM] ðŸ”Ž Testing ai-imgpromot.js (type: ai)\n[10/14/2025, 4:08:21 PM] âœ… ai-imgpromot.js â€” executed without uncaught error\n[10/14/2025, 4:08:26 PM] ðŸ”Ž Testing ai-kita.js (type: ai)\n[10/14/2025, 4:08:34 PM] âœ… ai-kita.js â€” executed without uncaught error\n[10/14/2025, 4:08:34 PM] ðŸ”Ž Testing ai-nijika.js (type: ai)\n[10/14/2025, 4:08:43 PM] âœ… ai-nijika.js â€” executed without uncaught error\n[10/14/2025, 4:08:43 PM] ðŸ”Ž Testing ai-prabowo.js (type: ai)\n[10/14/2025, 4:08:44 PM] âœ… ai-prabowo.js â€” executed without uncaught error\n[10/14/2025, 4:08:44 PM] ðŸ”Ž Testing ai-ryo.js (type: ai)\n[10/14/2025, 4:08:48 PM] âœ… ai-ryo.js â€” executed without uncaught error\n[10/14/2025, 4:08:49 PM] ðŸ”Ž Testing ai-t2v.js (type: ai)\n[10/14/2025, 4:08:54 PM] âœ… ai-t2v.js â€” executed without uncaught error\n[10/14/2025, 4:08:54 PM] ðŸ”Ž Testing ai-text2img.js (type: ai)\n[10/14/2025, 4:08:54 PM] âŒ ai-text2img.js: Invalid or unexpected token â€” (Invalid or unexpected token)\n[10/14/2025, 4:08:54 PM] ðŸ”Ž Testing ai-wuguri.js (type: ai)\n[10/14/2025, 4:09:02 PM] âœ… ai-wuguri.js â€” executed without uncaught error\n[10/14/2025, 4:09:02 PM] ðŸ”Ž Testing ai.js (type: ai)\n[10/14/2025, 4:09:08 PM] âœ… ai.js â€” executed without uncaught error\n[10/14/2025, 4:09:08 PM] ðŸ”Ž Testing anicenseri.js (type: general)\n[10/14/2025, 4:09:09 PM] âœ… anicenseri.js â€” executed without uncaught error\n[10/14/2025, 4:09:09 PM] ðŸ”Ž Testing anilist.js (type: general)\n[10/14/2025, 4:09:09 PM] âœ… anilist.js â€” executed without uncaught error\n[10/14/2025, 4:09:10 PM] ðŸ”Ž Testing anime-bluearchive.js (type: general)\n[10/14/2025, 4:09:30 PM] âŒ anime-bluearchive.js: Timeout â€” (Timeout (20s))\n[10/14/2025, 4:09:30 PM] ðŸ”Ž Testing anime-fanart.js (type: general)\n[10/14/2025, 4:09:37 PM] âœ… anime-fanart.js â€” executed without uncaught error\n[10/14/2025, 4:09:37 PM] ðŸ”Ž Testing anime-imagesearch.js (type: search)\n[10/14/2025, 4:09:37 PM] âœ… anime-imagesearch.js â€” executed without uncaught error\n[10/14/2025, 4:09:37 PM] ðŸ”Ž Testing anime-info.js (type: general)\n[10/14/2025, 4:09:38 PM] âœ… anime-info.js â€” executed without uncaught error\n[10/14/2025, 4:09:38 PM] ðŸ”Ž Testing anime-jadianime.js (type: general)\n[10/14/2025, 4:09:38 PM] âœ… anime-jadianime.js â€” executed without uncaught error\n[10/14/2025, 4:09:38 PM] ðŸ”Ž Testing anime-loli2.js (type: general)\n[10/14/2025, 4:09:38 PM] âœ… anime-loli2.js â€” executed without uncaught error\n[10/14/2025, 4:09:38 PM] ðŸ”Ž Testing anime-otakudesusearch.js (type: search)\n[10/14/2025, 4:09:40 PM] âŒ anime-otakudesusearch.js: Anime atau film tidak ditemukan. â€” (Anime atau film tidak ditemukan.)\n[10/14/2025, 4:09:40 PM] ðŸ”Ž Testing anime-random.js (type: general)\n[10/14/2025, 4:09:40 PM] âœ… anime-random.js â€” executed without uncaught error\n[10/14/2025, 4:09:40 PM] ðŸ”Ž Testing anime-waifu3.js (type: ai)\n[4:12:10 PM] 🧪 Testing @verify.js (type: general)
+[4:12:11 PM] ❌ @verify.js: لقد قمت بالتسجيل بالفعل!!
+هل تريد إعادة التسجيل؟ اكتب إلغاء التسجيل
+[4:12:11 PM] 🧪 Testing Allmenu.js (type: general)
+[4:12:11 PM] ❌ Allmenu.js: Identifier 'min' has already been declared
+[4:12:11 PM] 🧪 Testing afk-_afk.js (type: general)
+[4:12:11 PM] ✅ afk-_afk.js — executed without uncaught error
+[4:12:11 PM] 🧪 Testing afk-afk.js (type: general)
+[4:12:11 PM] ❌ afk-afk.js: conn is not defined
+[4:12:11 PM] 🧪 Testing ai-3d.js (type: ai)
+[4:12:20 PM] ✅ ai-3d.js — executed without uncaught error
+[4:12:20 PM] 🧪 Testing ai-askai.js (type: ai)
+[4:12:20 PM] ✅ ai-askai.js — executed without uncaught error
+[4:12:20 PM] 🧪 Testing ai-blackbox.js (type: ai)
+[4:12:21 PM] ✅ ai-blackbox.js — executed without uncaught error
+[4:12:21 PM] 🧪 Testing ai-bocchi.js (type: ai)
+[4:12:26 PM] ✅ ai-bocchi.js — executed without uncaught error
+[4:12:26 PM] 🧪 Testing ai-claudeai.js (type: ai)
+[4:12:37 PM] ✅ ai-claudeai.js — executed without uncaught error
+[4:12:37 PM] 🧪 Testing ai-code.js (type: ai)
+[4:12:38 PM] ❌ ai-code.js: فشل الطلب: Request failed with status code 400
+[4:12:38 PM] 🧪 Testing ai-codegen.js (type: ai)
+[4:12:38 PM] ✅ ai-codegen.js — executed without uncaught error
+[4:12:38 PM] 🧪 Testing ai-colorify.js (type: ai)
+[4:12:38 PM] ✅ ai-colorify.js — executed without uncaught error
+[4:12:38 PM] 🧪 Testing ai-dopple.js (type: ai)
+[4:12:42 PM] ✅ ai-dopple.js — executed without uncaught error
+[4:12:42 PM] 🧪 Testing ai-editfoto.js (type: ai)
+[4:12:42 PM] ✅ ai-editfoto.js — executed without uncaught error
+[4:12:42 PM] 🧪 Testing ai-elaina.js (type: ai)
+[4:12:48 PM] ✅ ai-elaina.js — executed without uncaught error
+[4:12:48 PM] 🧪 Testing ai-ghibli.js (type: ai)
+[4:12:49 PM] ✅ ai-ghibli.js — executed without uncaught error
+[4:12:49 PM] 🧪 Testing ai-gpt.js (type: ai)
+[4:12:49 PM] ❌ ai-gpt.js: Invalid or unexpected token
+[4:12:49 PM] 🧪 Testing ai-imgpromot.js (type: ai)
+[4:12:49 PM] ✅ ai-imgpromot.js — executed without uncaught error
+[4:12:49 PM] 🧪 Testing ai-kita.js (type: ai)
+[4:12:56 PM] ✅ ai-kita.js — executed without uncaught error
+[4:12:57 PM] 🧪 Testing ai-nijika.js (type: ai)
+[4:13:08 PM] ✅ ai-nijika.js — executed without uncaught error
+[4:13:08 PM] 🧪 Testing ai-prabowo.js (type: ai)
+[4:13:09 PM] ✅ ai-prabowo.js — executed without uncaught error
+[4:13:09 PM] 🧪 Testing ai-ryo.js (type: ai)
+[4:13:13 PM] ✅ ai-ryo.js — executed without uncaught error
+[4:13:13 PM] 🧪 Testing ai-t2v.js (type: ai)
+[4:13:16 PM] ✅ ai-t2v.js — executed without uncaught error
+[4:13:16 PM] 🧪 Testing ai-text2img.js (type: ai)
+[4:13:16 PM] ❌ ai-text2img.js: Invalid or unexpected token
+[4:13:16 PM] 🧪 Testing ai-wuguri.js (type: ai)
+[4:13:23 PM] ✅ ai-wuguri.js — executed without uncaught error
+[4:13:23 PM] 🧪 Testing ai.js (type: ai)
+[4:13:24 PM] ✅ ai.js — executed without uncaught error
+[4:13:24 PM] 🧪 Testing anicenseri.js (type: general)
+[4:13:25 PM] ✅ anicenseri.js — executed without uncaught error
+[4:13:25 PM] 🧪 Testing anilist.js (type: general)
+[4:13:25 PM] ✅ anilist.js — executed without uncaught error
+[4:13:25 PM] 🧪 Testing anime-bluearchive.js (type: general)
+[4:13:45 PM] ❌ anime-bluearchive.js: Timeout
+[4:13:46 PM] 🧪 Testing anime-fanart.js (type: general)
+[4:14:04 PM] ✅ anime-fanart.js — executed without uncaught error
+[4:14:04 PM] 🧪 Testing anime-imagesearch.js (type: search)
+[4:14:04 PM] ✅ anime-imagesearch.js — executed without uncaught error
+[4:14:04 PM] 🧪 Testing anime-info.js (type: general)
+[4:14:05 PM] ✅ anime-info.js — executed without uncaught error
+[4:14:05 PM] 🧪 Testing anime-jadianime.js (type: general)
+[4:14:05 PM] ✅ anime-jadianime.js — executed without uncaught error
+[4:14:05 PM] 🧪 Testing anime-loli2.js (type: general)
+[4:14:05 PM] ✅ anime-loli2.js — executed without uncaught error
+[4:14:05 PM] 🧪 Testing anime-otakudesusearch.js (type: search)
+[4:14:08 PM] ❌ anime-otakudesusearch.js: Anime atau film tidak ditemukan.
+[4:14:09 PM] 🧪 Testing anime-random.js (type: general)
+[4:14:09 PM] ✅ anime-random.js — executed without uncaught error
+[4:14:09 PM] 🧪 Testing anime-waifu3.js (type: ai)
+[4:14:25 PM] ✅ anime-waifu3.js — executed without uncaught error
+[4:14:25 PM] 🧪 Testing autosolat.js (type: general)
+[4:14:25 PM] ❌ autosolat.js: No callable handler/function found in plugin export
+[4:14:25 PM] 🧪 Testing bratbutton.js (type: general)
+[4:14:26 PM] ✅ bratbutton.js — executed without uncaught error
+[4:14:26 PM] 🧪 Testing ccgen.js (type: general)
+[4:14:26 PM] ✅ ccgen.js — executed without uncaught error
+[4:14:26 PM] 🧪 Testing cek-warn.js (type: general)
+[4:14:26 PM] ✅ cek-warn.js — executed without uncaught error
+[4:14:27 PM] 🧪 Testing cekhodam.js (type: general)
+[4:14:27 PM] ✅ cekhodam.js — executed without uncaught error
+[4:14:27 PM] 🧪 Testing cekkontol.js (type: general)
+[4:14:27 PM] ✅ cekkontol.js — executed without uncaught error
+[4:14:27 PM] 🧪 Testing cekmemek.js (type: general)
+[4:14:27 PM] ✅ cekmemek.js — executed without uncaught error
+[4:14:27 PM] 🧪 Testing creator.js (type: general)
+[4:14:27 PM] ✅ creator.js — executed without uncaught error
+[4:14:27 PM] 🧪 Testing download-X.js (type: download)
+[4:14:27 PM] ✅ download-X.js — executed without uncaught error
+[4:14:27 PM] 🧪 Testing download-Xhs.js (type: download)
+[4:14:31 PM] ✅ download-Xhs.js — executed without uncaught error
+[4:14:31 PM] 🧪 Testing download-yt5so.js (type: download)
+[4:14:31 PM] ✅ download-yt5so.js — executed without uncaught error
+[4:14:32 PM] 🧪 Testing downloader-aio.js (type: download)
+[4:14:32 PM] ❌ downloader-aio.js: Error: APIs is not defined
+[4:14:32 PM] 🧪 Testing downloader-capcut.js (type: download)
+[4:14:35 PM] ✅ downloader-capcut.js — executed without uncaught error
+[4:14:35 PM] 🧪 Testing downloader-facebook.js (type: download)
+[4:14:35 PM] ✅ downloader-facebook.js — executed without uncaught error
+[4:14:36 PM] 🧪 Testing downloader-gdrive.js (type: download)
+[4:14:36 PM] ❌ downloader-gdrive.js: [!] Input GoogleDrive URL
+[4:14:36 PM] 🧪 Testing downloader-googledrive.js (type: download)
+[4:14:36 PM] ❌ downloader-googledrive.js: URL Google Drive tidak valid!
+[4:14:36 PM] 🧪 Testing downloader-ig.js (type: download)
+[4:14:36 PM] ✅ downloader-ig.js — executed without uncaught error
+[4:14:37 PM] 🧪 Testing downloader-igaudio.js (type: download)
+[4:14:37 PM] ✅ downloader-igaudio.js — executed without uncaught error
+[4:14:37 PM] 🧪 Testing downloader-instatiktok.js (type: download)
+[4:14:37 PM] ✅ downloader-instatiktok.js — executed without uncaught error
+[4:14:37 PM] 🧪 Testing downloader-mediafire.js (type: download)
+[4:14:37 PM] ✅ downloader-mediafire.js — executed without uncaught error
+[4:14:37 PM] 🧪 Testing downloader-pin.js (type: download)
+[4:14:37 PM] ✅ downloader-pin.js — executed without uncaught error
+[4:14:37 PM] 🧪 Testing downloader-play.js (type: download)
+[4:14:41 PM] ✅ downloader-play.js — executed without uncaught error
+[4:14:41 PM] 🧪 Testing downloader-sfile.js (type: download)
+[4:14:41 PM] ❌ downloader-sfile.js: Query "https://www.youtube.com/watch?v=dQw4w9WgXcQ" not found :/
+[4:14:41 PM] 🧪 Testing downloader-spotify.js (type: download)
+[4:14:44 PM] ✅ downloader-spotify.js — executed without uncaught error
+[4:14:44 PM] 🧪 Testing downloader-threads.js (type: download)
+[4:14:45 PM] ✅ downloader-threads.js — executed without uncaught error
+[4:14:45 PM] 🧪 Testing downloader-tiktok.js (type: download)
+[4:14:48 PM] ✅ downloader-tiktok.js — executed without uncaught error
+[4:14:48 PM] 🧪 Testing downloader-tiktok2.js (type: download)
+[4:14:48 PM] ❌ downloader-tiktok2.js: SSL/Certificate issue
+[4:14:48 PM] 🧪 Testing downloader-tiktok3.js (type: download)
+[4:14:48 PM] ✅ downloader-tiktok3.js — executed without uncaught error
+[4:14:48 PM] 🧪 Testing downloader-tiktok_img.js (type: download)
+[4:14:52 PM] ✅ downloader-tiktok_img.js — executed without uncaught error
+[4:14:52 PM] 🧪 Testing downloader-ttmusic.js (type: download)
+[4:15:12 PM] ❌ downloader-ttmusic.js: Timeout
+[4:15:12 PM] 🧪 Testing downloader-videy.js (type: download)
+[4:15:14 PM] ✅ downloader-videy.js — executed without uncaught error
+[4:15:14 PM] 🧪 Testing downloader-videy2.js (type: download)
+[4:15:14 PM] ✅ downloader-videy2.js — executed without uncaught error
+[4:15:14 PM] 🧪 Testing enable.js (type: general)
+[4:15:14 PM] ✅ enable.js — executed without uncaught error
+[4:15:14 PM] 🧪 Testing exp-ceksn.js (type: general)
+[4:15:14 PM] ✅ exp-ceksn.js — executed without uncaught error
+[4:15:14 PM] 🧪 Testing exp-unreg.js (type: general)
+[4:15:14 PM] ❌ exp-unreg.js: الرقم التسلسلي خاطئ
+[4:15:14 PM] 🧪 Testing expired-cek.js (type: general)
+[4:15:14 PM] ❌ expired-cek.js: Cannot read properties of undefined (reading 'expired')
+[4:15:14 PM] 🧪 Testing expired-del.js (type: general)
+[4:15:14 PM] ✅ expired-del.js — executed without uncaught error
+[4:15:14 PM] 🧪 Testing fontsearch.js (type: search)
+[4:15:15 PM] ✅ fontsearch.js — executed without uncaught error
+[4:15:15 PM] 🧪 Testing fun-alay.js (type: fun)
+[4:15:15 PM] ✅ fun-alay.js — executed without uncaught error
+[4:15:15 PM] 🧪 Testing fun-angka.js (type: fun)
+[4:15:15 PM] ✅ fun-angka.js — executed without uncaught error
+[4:15:15 PM] 🧪 Testing fun-apakah.js (type: fun)
+[4:15:15 PM] ✅ fun-apakah.js — executed without uncaught error
+[4:15:15 PM] 🧪 Testing fun-benarkah.js (type: fun)
+[4:15:15 PM] ✅ fun-benarkah.js — executed without uncaught error
+[4:15:15 PM] 🧪 Testing fun-bisakah.js (type: fun)
+[4:15:15 PM] ✅ fun-bisakah.js — executed without uncaught error
+[4:15:15 PM] 🧪 Testing fun-cekcantik.js (type: fun)
+[4:15:16 PM] ✅ fun-cekcantik.js — executed without uncaught error
+[4:15:16 PM] 🧪 Testing fun-cektt.js (type: fun)
+[4:15:16 PM] ✅ fun-cektt.js — executed without uncaught error
+[4:15:16 PM] 🧪 Testing fun-dimanakah.js (type: fun)
+[4:15:16 PM] ✅ fun-dimanakah.js — executed without uncaught error
+[4:15:16 PM] 🧪 Testing fun-jadian.js (type: fun)
+[4:15:16 PM] ❌ fun-jadian.js: Cannot read properties of undefined (reading 'participants')
+[4:15:16 PM] 🧪 Testing fun-kapankah.js (type: fun)
+[4:15:16 PM] ✅ fun-kapankah.js — executed without uncaught error
+[4:15:16 PM] 🧪 Testing fun-kematian.js (type: fun)
+[4:15:16 PM] ✅ fun-kematian.js — executed without uncaught error
+[4:15:16 PM] 🧪 Testing fun-kerangajaib.js (type: ai)
+[4:15:16 PM] ✅ fun-kerangajaib.js — executed without uncaught error
+[4:15:16 PM] 🧪 Testing fun-mimpi.js (type: fun)
+[4:15:19 PM] ✅ fun-mimpi.js — executed without uncaught error
+[4:15:19 PM] 🧪 Testing fun-ramalan.js (type: fun)
+[4:15:19 PM] ✅ fun-ramalan.js — executed without uncaught error
+[4:15:20 PM] 🧪 Testing fun-seberapagila.js (type: fun)
+[4:15:20 PM] ✅ fun-seberapagila.js — executed without uncaught error
+[4:15:20 PM] 🧪 Testing fun-simi.js (type: fun)
+[4:15:21 PM] ✅ fun-simi.js — executed without uncaught error
+[4:15:21 PM] 🧪 Testing fun-sipaling2.js (type: fun)
+[4:15:22 PM] ❌ fun-sipaling2.js: Cannot read properties of undefined (reading 'participants')
+[4:15:22 PM] 🧪 Testing fun-suratcinta.js (type: fun)
+[4:15:22 PM] ✅ fun-suratcinta.js — executed without uncaught error
+[4:15:22 PM] 🧪 Testing fun-tebakumur.js (type: fun)
+[4:15:22 PM] ✅ fun-tebakumur.js — executed without uncaught error
+[4:15:22 PM] 🧪 Testing fun-top.js (type: fun)
+[4:15:22 PM] ❌ fun-top.js: Cannot read properties of undefined (reading 'participants')
+[4:15:22 PM] 🧪 Testing funcek.js (type: fun)
+[4:15:22 PM] ✅ funcek.js — executed without uncaught error
+[4:15:22 PM] 🧪 Testing game-asahotak-ans.js (type: game)
+[4:15:22 PM] ❌ game-asahotak-ans.js: No callable handler/function found in plugin export
+[4:15:22 PM] 🧪 Testing game-asahotak-hint.js (type: game)
+[4:15:22 PM] ❌ game-asahotak-hint.js: false
+[4:15:22 PM] 🧪 Testing game-blackjack.js (type: game)
+[4:15:22 PM] ❌ game-blackjack.js: Invalid or unexpected token
+[4:15:22 PM] 🧪 Testing game-bom-ans.js (type: game)
+[4:15:22 PM] ❌ game-bom-ans.js: No callable handler/function found in plugin export
+[4:15:23 PM] 🧪 Testing game-bom.js (type: game)
+[4:15:23 PM] ❌ game-bom.js: Cannot destructure property 'key' of 'msg' as it is undefined.
+[4:15:23 PM] 🧪 Testing game-caklontong.js (type: game)
+[4:15:23 PM] ✅ game-caklontong.js — executed without uncaught error
+[4:15:23 PM] 🧪 Testing game-caklontong_ans.js (type: game)
+[4:15:23 PM] ❌ game-caklontong_ans.js: No callable handler/function found in plugin export
+[4:15:23 PM] 🧪 Testing game-caklontong_hint.js (type: game)
+[4:15:23 PM] ✅ game-caklontong_hint.js — executed without uncaught error
+[4:15:23 PM] 🧪 Testing game-cerdascermat.js (type: game)
+[4:15:23 PM] ✅ game-cerdascermat.js — executed without uncaught error
+[4:15:23 PM] 🧪 Testing game-family100.js (type: game)
+[4:15:23 PM] ✅ game-family100.js — executed without uncaught error
+[4:15:23 PM] 🧪 Testing game-family100_ans.js (type: game)
+[4:15:23 PM] ❌ game-family100_ans.js: No callable handler/function found in plugin export
+[4:15:23 PM] 🧪 Testing game-genshinprofile.js (type: game)
+[4:15:25 PM] ✅ game-genshinprofile.js — executed without uncaught error
+[4:15:25 PM] 🧪 Testing game-kuis.js (type: game)
+[4:15:25 PM] ✅ game-kuis.js — executed without uncaught error
+[4:15:25 PM] 🧪 Testing game-leaderboard.js (type: game)
+[4:15:25 PM] ✅ game-leaderboard.js — executed without uncaught error
+[4:15:26 PM] 🧪 Testing game-lengkapikalimat-ans.js (type: game)
+[4:15:26 PM] ❌ game-lengkapikalimat-ans.js: No callable handler/function found in plugin export
+[4:15:26 PM] 🧪 Testing game-lengkapikalimat.js (type: game)
+[4:15:26 PM] ✅ game-lengkapikalimat.js — executed without uncaught error
+[4:15:26 PM] 🧪 Testing game-perangsarung.js (type: game)
+[4:15:26 PM] ✅ game-perangsarung.js — executed without uncaught error
+[4:15:26 PM] 🧪 Testing game-siapakahaku.js (type: game)
+[4:15:26 PM] ✅ game-siapakahaku.js — executed without uncaught error
+[4:15:26 PM] 🧪 Testing game-siapakahaku_hint.js (type: game)
+[4:15:26 PM] ❌ game-siapakahaku_hint.js: false
+[4:15:26 PM] 🧪 Testing game-suit.js (type: game)
+[4:15:26 PM] ❌ game-suit.js: الخيارات المتاحة
+
+حجر, ورق, مقص
+
+مثال: undefinedgame-suit مقص
+
+تأكد من كتابة خيارك باللغة العربية.
+[4:15:26 PM] 🧪 Testing game-suitpvp-ans.js (type: game)
+[4:15:26 PM] ✅ game-suitpvp-ans.js — executed without uncaught error
+[4:15:26 PM] 🧪 Testing game-suitpvp.js (type: game)
+[4:15:26 PM] ✅ game-suitpvp.js — executed without uncaught error
+[4:15:26 PM] 🧪 Testing game-suitpvp_ans.js (type: game)
+[4:15:26 PM] ✅ game-suitpvp_ans.js — executed without uncaught error
+[4:15:27 PM] 🧪 Testing game-susunkata.js (type: game)
+[4:15:27 PM] ✅ game-susunkata.js — executed without uncaught error
+[4:15:27 PM] 🧪 Testing game-susunkata_ans.js (type: game)
+[4:15:27 PM] ❌ game-susunkata_ans.js: No callable handler/function found in plugin export
+[4:15:27 PM] 🧪 Testing game-tebakaml_hint.js (type: game)
+[4:15:27 PM] ❌ game-tebakaml_hint.js: false
+[4:15:27 PM] 🧪 Testing game-tebakan-ans.js (type: game)
+[4:15:27 PM] ❌ game-tebakan-ans.js: No callable handler/function found in plugin export
+[4:15:27 PM] 🧪 Testing game-tebakan-hint.js (type: game)
+[4:15:27 PM] ✅ game-tebakan-hint.js — executed without uncaught error
+[4:15:27 PM] 🧪 Testing game-tebakan.js (type: game)
+[4:15:27 PM] ✅ game-tebakan.js — executed without uncaught error
+[4:15:27 PM] 🧪 Testing game-tebakbendera.js (type: game)
+[4:15:47 PM] ❌ game-tebakbendera.js: Timeout
+[4:15:47 PM] 🧪 Testing game-tebakgambar-ans.js (type: game)
+[4:15:47 PM] ❌ game-tebakgambar-ans.js: No callable handler/function found in plugin export
+[4:15:47 PM] 🧪 Testing game-tebakgambar-hint.js (type: game)
+[4:15:47 PM] ❌ game-tebakgambar-hint.js: false
+[4:15:48 PM] 🧪 Testing game-tebakgambar.js (type: game)
+[4:15:48 PM] ✅ game-tebakgambar.js — executed without uncaught error
+[4:15:48 PM] 🧪 Testing game-tebakgame.js (type: game)
+[4:15:48 PM] ✅ game-tebakgame.js — executed without uncaught error
+[4:15:48 PM] 🧪 Testing game-tebakgame_hint.js (type: game)
+[4:15:48 PM] ✅ game-tebakgame_hint.js — executed without uncaught error
+[4:15:48 PM] 🧪 Testing game-tebakkimia.js (type: game)
+[4:16:08 PM] ❌ game-tebakkimia.js: Timeout
+[4:16:08 PM] 🧪 Testing game-tebaklirik.js (type: game)
+[4:16:08 PM] ✅ game-tebaklirik.js — executed without uncaught error
+[4:16:08 PM] 🧪 Testing game-tebaklirik_ans.js (type: game)
+[4:16:08 PM] ❌ game-tebaklirik_ans.js: No callable handler/function found in plugin export
+[4:16:08 PM] 🧪 Testing game-tebaklirik_hint.js (type: game)
+[4:16:08 PM] ✅ game-tebaklirik_hint.js — executed without uncaught error
+[4:16:08 PM] 🧪 Testing game-tebaklogo.js (type: game)
+[4:16:08 PM] ✅ game-tebaklogo.js — executed without uncaught error
+[4:16:09 PM] 🧪 Testing game-tebaklogo_hint.js (type: game)
+[4:16:09 PM] ✅ game-tebaklogo_hint.js — executed without uncaught error
+[4:16:09 PM] 🧪 Testing game-tebakmakanan-ans.js (type: game)
+[4:16:09 PM] ❌ game-tebakmakanan-ans.js: No callable handler/function found in plugin export
+[4:16:09 PM] 🧪 Testing game-tebakmakanan-hint.js (type: game)
+[4:16:09 PM] ✅ game-tebakmakanan-hint.js — executed without uncaught error
+[4:16:09 PM] 🧪 Testing game-tebakmakanan.js (type: game)
+[4:16:09 PM] ✅ game-tebakmakanan.js — executed without uncaught error
+[4:16:09 PM] 🧪 Testing game-tebaktebakan.js (type: game)
+[4:16:09 PM] ✅ game-tebaktebakan.js — executed without uncaught error
+[4:16:09 PM] 🧪 Testing game-tebaktebakan_ans.js (type: game)
+[4:16:09 PM] ❌ game-tebaktebakan_ans.js: No callable handler/function found in plugin export
+[4:16:09 PM] 🧪 Testing game-tebaktebakan_hint.js (type: game)
+[4:16:09 PM] ✅ game-tebaktebakan_hint.js — executed without uncaught error
+[4:16:09 PM] 🧪 Testing game-togel.js (type: game)
+[4:16:09 PM] ✅ game-togel.js — executed without uncaught error
+[4:16:09 PM] 🧪 Testing game-truthordare.js (type: game)
+[4:16:09 PM] ✅ game-truthordare.js — executed without uncaught error
+[4:16:09 PM] 🧪 Testing game-ulartangga.js (type: game)
+[4:16:10 PM] ❌ game-ulartangga.js: conn is not defined
+[4:16:10 PM] 🧪 Testing game-uno.js (type: game)
+[4:16:10 PM] ✅ game-uno.js — executed without uncaught error
+[4:16:11 PM] 🧪 Testing game-war-attack.js (type: game)
+[4:16:11 PM] ✅ game-war-attack.js — executed without uncaught error
+[4:16:11 PM] 🧪 Testing game-war.js (type: game)
+[4:16:11 PM] ❌ game-war.js: Cannot read properties of undefined (reading 'war')
+[4:16:11 PM] 🧪 Testing games-_tictactoe.js (type: game)
+[4:16:11 PM] ❌ games-_tictactoe.js: No callable handler/function found in plugin export
+[4:16:11 PM] 🧪 Testing games-tictactoe.js (type: game)
+[4:16:11 PM] ❌ games-tictactoe.js: Cannot read properties of undefined (reading 'startsWith')
+[4:16:11 PM] 🧪 Testing getcode.js (type: general)
+[4:16:11 PM] ✅ getcode.js — executed without uncaught error
+[4:16:11 PM] 🧪 Testing giftsticker.js (type: general)
+[4:16:31 PM] ❌ giftsticker.js: Timeout
+[4:16:31 PM] 🧪 Testing group-add.js (type: general)
+[4:16:33 PM] ❌ group-add.js: Cannot read properties of undefined (reading 'map')
+[4:16:33 PM] 🧪 Testing group-cekasalmember.js (type: general)
+[4:16:33 PM] ✅ group-cekasalmember.js — executed without uncaught error
+[4:16:33 PM] 🧪 Testing group-delete.js (type: general)
+[4:16:33 PM] ❌ group-delete.js: conn is not defined
+[4:16:33 PM] 🧪 Testing group-demote.js (type: general)
+[4:16:33 PM] ❌ group-demote.js: conn.groupParticipantsUpdate is not a function
+[4:16:33 PM] 🧪 Testing group-hidetag.js (type: general)
+[4:16:33 PM] ❌ group-hidetag.js: Cannot read properties of undefined (reading 'map')
+[4:16:33 PM] 🧪 Testing group-info.js (type: general)
+[4:16:34 PM] ❌ group-info.js: Cannot read properties of undefined (reading 'filter')
+[4:16:34 PM] 🧪 Testing group-kick.js (type: general)
+[4:16:34 PM] ✅ group-kick.js — executed without uncaught error
+[4:16:34 PM] 🧪 Testing group-link.js (type: general)
+[4:16:34 PM] ❌ group-link.js: Aku tidak ada di grup itu :(
+[4:16:34 PM] 🧪 Testing group-opentime.js (type: general)
+[4:16:34 PM] ✅ group-opentime.js — executed without uncaught error
+[4:16:34 PM] 🧪 Testing group-polling.js (type: general)
+[4:16:34 PM] ✅ group-polling.js — executed without uncaught error
+[4:16:34 PM] 🧪 Testing group-setbye.js (type: general)
+[4:16:34 PM] ✅ group-setbye.js — executed without uncaught error
+[4:16:34 PM] 🧪 Testing group-setppgc.js (type: general)
+[4:16:34 PM] ❌ group-setppgc.js: kirim/balas gambar dengan caption *undefinedgroup-setppgc*
+[4:16:35 PM] 🧪 Testing group-settings.js (type: general)
+[4:16:35 PM] ❌ group-settings.js: *Format salah! Contoh :*
+  *○ undefinedgroup-settings close*
+  *○ undefinedgroup-settings open*
+[4:16:35 PM] 🧪 Testing group-setwelcome.js (type: general)
+[4:16:35 PM] ✅ group-setwelcome.js — executed without uncaught error
+[4:16:35 PM] 🧪 Testing group-sider.js (type: general)
+[4:16:35 PM] ❌ group-sider.js: Cannot read properties of undefined (reading 'participants')
+[4:16:35 PM] 🧪 Testing group-tagall.js (type: general)
+[4:16:35 PM] ❌ group-tagall.js: participants is not iterable
+[4:16:35 PM] 🧪 Testing group-tagsw.js (type: general)
+[4:16:35 PM] ✅ group-tagsw.js — executed without uncaught error
+[4:16:35 PM] 🧪 Testing group-totag.js (type: general)
+[4:16:35 PM] ❌ group-totag.js: Cannot read properties of undefined (reading 'map')
+[4:16:35 PM] 🧪 Testing group-totalpesan.js (type: general)
+[4:16:35 PM] ❌ group-totalpesan.js: Cannot read properties of undefined (reading '1234567890-1234567890@g.us')
+[4:16:35 PM] 🧪 Testing group-tutupjam-bukajam.js (type: general)
+[4:16:35 PM] ✅ group-tutupjam-bukajam.js — executed without uncaught error
+[4:16:35 PM] 🧪 Testing hitamkan.js (type: general)
+[4:16:35 PM] ✅ hitamkan.js — executed without uncaught error
+[4:16:36 PM] 🧪 Testing image-wallpaper.js (type: general)
+[4:16:36 PM] ✅ image-wallpaper.js — executed without uncaught error
+[4:16:36 PM] 🧪 Testing info-bmkggempa.js (type: general)
+[4:16:37 PM] ✅ info-bmkggempa.js — executed without uncaught error
+[4:16:37 PM] 🧪 Testing info-dash.js (type: general)
+[4:16:37 PM] ❌ info-dash.js: conn.relayMessage is not a function
+[4:16:37 PM] 🧪 Testing info-grouplist.js (type: general)
+[4:16:37 PM] ❌ info-grouplist.js: Cannot convert undefined or null to object
+[4:16:37 PM] 🧪 Testing info-laporown.js (type: general)
+[4:16:37 PM] ✅ info-laporown.js — executed without uncaught error
+[4:16:38 PM] 🧪 Testing info-liburnasional.js (type: general)
+[4:16:39 PM] ✅ info-liburnasional.js — executed without uncaught error
+[4:16:39 PM] 🧪 Testing info-listheroml.js (type: general)
+[4:16:39 PM] ✅ info-listheroml.js — executed without uncaught error
+[4:16:40 PM] 🧪 Testing info-runtime.js (type: general)
+[4:16:40 PM] ✅ info-runtime.js — executed without uncaught error
+[4:16:40 PM] 🧪 Testing info-script.js (type: general)
+[4:16:40 PM] ✅ info-script.js — executed without uncaught error
+[4:16:40 PM] 🧪 Testing info-toplimit.js (type: general)
+[4:16:40 PM] ✅ info-toplimit.js — executed without uncaught error
+[4:16:40 PM] 🧪 Testing info-totalfitur.js (type: general)
+[4:16:40 PM] ❌ info-totalfitur.js: Cannot convert undefined or null to object
+[4:16:40 PM] 🧪 Testing infogempa.js (type: general)
+[4:16:40 PM] ✅ infogempa.js — executed without uncaught error
+[4:16:41 PM] 🧪 Testing internet-Tafsir.js (type: general)
+[4:16:42 PM] ✅ internet-Tafsir.js — executed without uncaught error
+[4:16:42 PM] 🧪 Testing internet-beritabola.js (type: general)
+[4:16:44 PM] ✅ internet-beritabola.js — executed without uncaught error
+[4:16:44 PM] 🧪 Testing internet-cuaca.js (type: general)
+[4:16:45 PM] ✅ internet-cuaca.js — executed without uncaught error
+[4:16:45 PM] 🧪 Testing internet-dafont.js (type: general)
+[4:16:46 PM] ❌ internet-dafont.js: Gagal mengambil data dari API
+[4:16:46 PM] 🧪 Testing internet-fetch.js (type: general)
+[4:16:46 PM] ❌ internet-fetch.js: Host not found
+[4:16:46 PM] 🧪 Testing internet-github-trend.js (type: general)
+[4:16:51 PM] ✅ internet-github-trend.js — executed without uncaught error
+[4:16:51 PM] 🧪 Testing internet-google-img.js (type: general)
+[4:16:52 PM] ✅ internet-google-img.js — executed without uncaught error
+[4:16:52 PM] 🧪 Testing internet-groupsearch.js (type: search)
+[4:16:54 PM] ✅ internet-groupsearch.js — executed without uncaught error
+[4:16:54 PM] 🧪 Testing internet-heroml.js (type: general)
+[4:17:14 PM] ❌ internet-heroml.js: Timeout
+[4:17:14 PM] 🧪 Testing internet-infoloker.js (type: general)
+[4:17:17 PM] ✅ internet-infoloker.js — executed without uncaught error
+[4:17:17 PM] 🧪 Testing internet-kompas.js (type: general)
+[4:17:18 PM] ✅ internet-kompas.js — executed without uncaught error
+[4:17:19 PM] 🧪 Testing internet-mangga-pop.js (type: general)
+[4:17:20 PM] ✅ internet-mangga-pop.js — executed without uncaught error
+[4:17:20 PM] 🧪 Testing internet-misteri.js (type: general)
+[4:17:23 PM] ✅ internet-misteri.js — executed without uncaught error
+[4:17:23 PM] 🧪 Testing internet-mltour.js (type: general)
