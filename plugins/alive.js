@@ -1,33 +1,55 @@
-const settings = require("../settings");
-async function aliveCommand(sock, chatId, message) {
+let handler = async (m, { conn }) => {
     try {
-        const message1 = `*🤖 Knight Bot is Active!*\n\n` +
-                       `*Version:* ${settings.version}\n` +
-                       `*Status:* Online\n` +
-                       `*Mode:* Public\n\n` +
-                       `*🌟 Features:*\n` +
-                       `• Group Management\n` +
-                       `• Antilink Protection\n` +
-                       `• Fun Commands\n` +
-                       `• And more!\n\n` +
-                       `Type *.menu* for full command list`;
+        const botVersion = global.version || '1.0.0';
+        const botName = global.botname || 'نايت بوت';
+        
+        const aliveMessage = `╔═══❰ 🤖 ${botName} ❱═══╗
+║
+║ ✅ *الحالة:* نشط ومتصل
+║ 📌 *الإصدار:* ${botVersion}
+║ 🌐 *الوضع:* عام للجميع
+║
+║ ━━━━━━━━━━━━━━
+║
+║ 🌟 *المميزات الرئيسية:*
+║
+║ 👥 إدارة المجموعات
+║ 🛡️ حماية من الروابط
+║ 🎮 أوامر ترفيهية
+║ 🤖 ذكاء اصطناعي
+║ 📥 تحميل الملفات
+║ 🎨 صنع الملصقات
+║ 🔊 تحويل الصوتيات
+║ 📊 وأكثر من ذلك!
+║
+║ ━━━━━━━━━━━━━━
+║
+║ 📜 *للحصول على قائمة الأوامر:*
+║ اكتب: *.قائمة* أو *.الاوامر*
+║
+╚═══════════════════╝`;
 
-        await sock.sendMessage(chatId, {
-            text: message1,
+        await conn.sendMessage(m.chat, {
+            text: aliveMessage,
             contextInfo: {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363161513685998@newsletter',
-                    newsletterName: 'KnightBot MD',
+                    newsletterName: botName,
                     serverMessageId: -1
                 }
             }
-        }, { quoted: message });
-    } catch (error) {
-        console.error('Error in alive command:', error);
-        await sock.sendMessage(chatId, { text: 'Bot is alive and running!' }, { quoted: message });
-    }
-}
+        }, { quoted: m });
 
-module.exports = aliveCommand;
+    } catch (error) {
+        console.error('خطأ في أمر alive:', error);
+        await conn.reply(m.chat, '✅ البوت نشط ويعمل بكفاءة!', m);
+    }
+};
+
+handler.help = ['نشط', 'حالة', 'بوت'];
+handler.tags = ['main'];
+handler.command = /^(نشط|حالة|بوت|alive|status|bot)$/i;
+
+export default handler;
