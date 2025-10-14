@@ -1,91 +1,106 @@
-const compliments = [
-    "You're amazing just the way you are!",
-    "You have a great sense of humor!",
-    "You're incredibly thoughtful and kind.",
-    "You are more powerful than you know.",
-    "You light up the room!",
-    "You're a true friend.",
-    "You inspire me!",
-    "Your creativity knows no bounds!",
-    "You have a heart of gold.",
-    "You make a difference in the world.",
-    "Your positivity is contagious!",
-    "You have an incredible work ethic.",
-    "You bring out the best in people.",
-    "Your smile brightens everyone's day.",
-    "You're so talented in everything you do.",
-    "Your kindness makes the world a better place.",
-    "You have a unique and wonderful perspective.",
-    "Your enthusiasm is truly inspiring!",
-    "You are capable of achieving great things.",
-    "You always know how to make someone feel special.",
-    "Your confidence is admirable.",
-    "You have a beautiful soul.",
-    "Your generosity knows no limits.",
-    "You have a great eye for detail.",
-    "Your passion is truly motivating!",
-    "You are an amazing listener.",
-    "You're stronger than you think!",
-    "Your laughter is infectious.",
-    "You have a natural gift for making others feel valued.",
-    "You make the world a better place just by being in it."
-];
-
-async function complimentCommand(sock, chatId, message) {
+let handler = async (m, { conn }) => {
     try {
-        if (!message || !chatId) {
-            console.log('Invalid message or chatId:', { message, chatId });
-            return;
-        }
-
         let userToCompliment;
         
-        // Check for mentioned users
-        if (message.message?.extendedTextMessage?.contextInfo?.mentionedJid?.length > 0) {
-            userToCompliment = message.message.extendedTextMessage.contextInfo.mentionedJid[0];
-        }
-        // Check for replied message
-        else if (message.message?.extendedTextMessage?.contextInfo?.participant) {
-            userToCompliment = message.message.extendedTextMessage.contextInfo.participant;
+        // التحقق من الإشارة أو الرد
+        if (m.mentionedJid && m.mentionedJid.length > 0) {
+            userToCompliment = m.mentionedJid[0];
+        } else if (m.quoted) {
+            userToCompliment = m.quoted.sender;
         }
         
         if (!userToCompliment) {
-            await sock.sendMessage(chatId, { 
-                text: 'Please mention someone or reply to their message to compliment them!'
-            });
-            return;
+            return conn.reply(m.chat, `╔═══❰ 💝 مجاملة ❱═══╗
+║
+║ ❌ يرجى تحديد شخص للمجاملة!
+║
+║ 📝 *طريقة الاستخدام:*
+║ • قم بالرد على رسالته
+║ • قم بعمل منشن له @المستخدم
+║
+╚═══════════════════╝`, m);
         }
 
+        // قائمة المجاملات بالعربية
+        const compliments = [
+            "أنت رائع تماماً كما أنت! 🌟",
+            "لديك حس فكاهي رائع! 😄",
+            "أنت شخص مفكر ولطيف للغاية. 💭",
+            "أنت أقوى مما تعتقد! 💪",
+            "أنت تضيء المكان! ✨",
+            "أنت صديق حقيقي. 🤝",
+            "أنت تلهمني! 🌈",
+            "إبداعك لا حدود له! 🎨",
+            "لديك قلب من ذهب. 💛",
+            "أنت تحدث فرقاً في العالم. 🌍",
+            "إيجابيتك معدية! 😊",
+            "لديك أخلاقيات عمل مذهلة. 📈",
+            "أنت تبرز الأفضل في الناس. 🌺",
+            "ابتسامتك تنير يوم الجميع. 😁",
+            "أنت موهوب في كل ما تفعله. 🎯",
+            "لطفك يجعل العالم مكاناً أفضل. 🌸",
+            "لديك وجهة نظر فريدة ورائعة. 👀",
+            "حماسك ملهم حقاً! 🔥",
+            "أنت قادر على تحقيق أشياء عظيمة. 🏆",
+            "تعرف دائماً كيف تجعل شخصاً ما يشعر بالتميز. 💫",
+            "ثقتك بنفسك تستحق الإعجاب. 👑",
+            "لديك روح جميلة. 🦋",
+            "كرمك لا حدود له. 🎁",
+            "لديك عين رائعة للتفاصيل. 🔍",
+            "شغفك محفز حقاً! ❤️",
+            "أنت مستمع رائع. 👂",
+            "أنت أقوى مما تظن! 💎",
+            "ضحكتك معدية. 😂",
+            "لديك موهبة طبيعية لجعل الآخرين يشعرون بالتقدير. 🌹",
+            "أنت تجعل العالم مكاناً أفضل بمجرد وجودك فيه. 🌏"
+        ];
+
+        // اختيار مجاملة عشوائية
         const compliment = compliments[Math.floor(Math.random() * compliments.length)];
 
-        // Add delay to avoid rate limiting
+        // تأخير بسيط لتجنب حد المعدل
         await new Promise(resolve => setTimeout(resolve, 1000));
 
-        await sock.sendMessage(chatId, { 
-            text: `Hey @${userToCompliment.split('@')[0]}, ${compliment}`,
-            mentions: [userToCompliment]
-        });
+        // إرسال المجاملة
+        const message = `╔═══❰ 💝 مجاملة خاصة ❱═══╗
+║
+║ 👤 إلى: @${userToCompliment.split('@')[0]}
+║
+║ ━━━━━━━━━━━━━━
+║
+║ ${compliment}
+║
+║ ━━━━━━━━━━━━━━
+║
+║ 💕 مع أطيب التمنيات!
+║
+╚═══════════════════╝`;
+
+        await conn.reply(m.chat, message, m, { mentions: [userToCompliment] });
+
     } catch (error) {
-        console.error('Error in compliment command:', error);
+        console.error('خطأ في المجاملة:', error);
+        
         if (error.data === 429) {
             await new Promise(resolve => setTimeout(resolve, 2000));
-            try {
-                await sock.sendMessage(chatId, { 
-                    text: 'Please try again in a few seconds.'
-                });
-            } catch (retryError) {
-                console.error('Error sending retry message:', retryError);
-            }
-        } else {
-            try {
-                await sock.sendMessage(chatId, { 
-                    text: 'An error occurred while sending the compliment.'
-                });
-            } catch (sendError) {
-                console.error('Error sending error message:', sendError);
-            }
+            return conn.reply(m.chat, `╔═══❰ ⚠️ تحذير ❱═══╗
+║
+║ ⏳ يرجى الانتظار قليلاً
+║ 🔄 ثم حاول مرة أخرى
+║
+╚═══════════════════╝`, m);
         }
+        
+        conn.reply(m.chat, `╔═══❰ ⚠️ خطأ ❱═══╗
+║
+║ ❌ حدث خطأ في إرسال المجاملة
+║
+╚═══════════════════╝`, m);
     }
-}
+};
 
-module.exports = { complimentCommand };
+handler.help = ['مجاملة <@مستخدم>'];
+handler.tags = ['fun'];
+handler.command = /^(مجاملة|compliment|praise)$/i;
+
+export default handler;
